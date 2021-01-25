@@ -1,4 +1,4 @@
-baseURL = "https://uncopied.org/blog"
+baseURL = "https://uncopied.github.io/uncopied_docs/"
 languageCode = "en-us"
 title = "UNCOPIED blog"
 theme = "ananke"
