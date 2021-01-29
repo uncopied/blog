@@ -9,7 +9,13 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 
-
+[twitter]
+  card = "UNCOPIED blog"
+  site = "@uncopied_art"
+  title = "UNCOPIED, a blog for uncopiers"
+  description = "Making original truly unique. Stories, making-of and use cases for UNCOPIED certificates of authenticity, expertise or inventory."
+  image = "https://uncopied.github.io/blog/images/logo_uncopied_square.png"
+    
 [languages]
   [languages.en]
     title = "UNCOPIED, a blog for uncopiers"
@@ -23,8 +29,12 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
 	languageCode = "fr-FR"
 	
 [params]
-  favicon = "/images/favico.ico"
-  site_logo = "/images/logo_uncopied_square.png"
+  favicon = "/images/favicon.ico"
+  faviconApple = "/images/apple-touch-icon.png"
+  favicon32 = "/images/favicon-32x32.png"
+  favicon16 = "/images/favicon-16x16.png"
+  webmanifest = "/images/site.webmanifest"
+  site_logo = ""
   description = "UNCOPIED certificates of authenticity, expertise or inventory for original art works : stories, making-of and use cases."
   facebook = ""
   twitter = "https://twitter.com/uncopied_art"
