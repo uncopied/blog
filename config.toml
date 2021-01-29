@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [twitter]
-  card = "UNCOPIED blog"
+  card = "summary"
   site = "@uncopied_art"
   title = "UNCOPIED, a blog for uncopiers"
   description = "Making original truly unique. Stories, making-of and use cases for UNCOPIED certificates of authenticity, expertise or inventory."
