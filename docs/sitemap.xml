@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://uncopied.github.io/blog/posts/my-first-post/</loc>
-    <lastmod>2021-01-25T09:50:19+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://uncopied.github.io/blog/en/sitemap.xml</loc>
+    
+      <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://uncopied.github.io/blog/posts/</loc>
-    <lastmod>2021-01-25T09:50:19+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://uncopied.github.io/blog/fr/sitemap.xml</loc>
+    
+      <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://uncopied.github.io/blog/</loc>
-    <lastmod>2021-01-25T09:50:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncopied.github.io/blog/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://uncopied.github.io/blog/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

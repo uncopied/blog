@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on UNCOPIED, le blogue des décopieurs</title>
+    <link>https://uncopied.github.io/blog/fr/categories/</link>
+    <description>Recent content in Categories on UNCOPIED, le blogue des décopieurs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language><atom:link href="https://uncopied.github.io/blog/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

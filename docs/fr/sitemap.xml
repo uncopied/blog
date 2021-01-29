@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/post/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/tags/securit%C3%A9/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/tags/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/post/chapter-1/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/post/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/post/chapter-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.github.io/blog/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.github.io/blog/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.github.io/blog/fr/contact/"
+                />
+  </url>
+  
+</urlset>

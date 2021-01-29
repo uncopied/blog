@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on UNCOPIED blog</title>
+    <title>Tags on UNCOPIED, a blog for uncopiers</title>
     <link>https://uncopied.github.io/blog/tags/</link>
-    <description>Recent content in Tags on UNCOPIED blog</description>
+    <description>Recent content in Tags on UNCOPIED, a blog for uncopiers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://uncopied.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uncopied.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sécurité</title>
+      <link>https://uncopied.github.io/blog/tags/s%C3%A9curit%C3%A9/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncopied.github.io/blog/tags/s%C3%A9curit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
