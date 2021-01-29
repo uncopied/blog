@@ -14,8 +14,6 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
   site = "@uncopied_art"
   title = "UNCOPIED, a blog for uncopiers"
   description = "Making original truly unique. Stories, making-of and use cases for UNCOPIED certificates of authenticity, expertise or inventory."
-  image = "https://uncopied.github.io/blog/images/gohugo-default-sample-hero-image-min.jpg"
-  imageAlt = "HUGO image of Notre-Dame"
     
 [languages]
   [languages.en]
