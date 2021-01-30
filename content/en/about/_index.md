@@ -21,8 +21,10 @@ it affects all of US.
 UNCOPIED certificates don't reinvent the wheel. [Tally sticks](https://en.wikipedia.org/wiki/Tally_stick) have been around 
 since the upper paleolitic, when the first forms of primary art emerged.
 
-[Chirographs](https://en.wikipedia.org/wiki/Chirograph) are tally sticks on paper. They have beend around for a while too : securing commercial contracts, 
+[Chirographs](https://en.wikipedia.org/wiki/Chirograph) are tally sticks on paper, manually cut using scissors. They have been used since medieval times to secure commercial contracts, 
 important transactions, until it became impractical to fit duplicate texts onto a single sheet of parchment.
+
+{{< figure src="/blog/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="English legal document in triplicate chirograph form, dated 1303." >}}
 
 [Banksy's](https://news.artnet.com/art-world/british-museum-acquires-first-banksy-1454380) chirograph, a fake £10 note found on Pest Control certificates of authenticity, was the first work by the artist to enter the British Museum’s collection.
 
@@ -30,17 +32,17 @@ We would like our certificates to work for anyone : not just the FAMOUS ARTIST.
 
 We use recent human inventions to make chirographs practical again : barcode, qrcode and the latest (greener) generation of blockchain technology.  
 
-Our certificates are designed to outlive us : the tally stick provides physical uniqueness to a label and four certificate copies. 
-ME, YOU and US receive a physical copy of the document. UNCOPIED certificates are archived with the highest level of physical security
-available. All source digital objects are stored on IPFS, a redundant digital archive. Art object identifiers are stored both with UNCOPIED 
+{{< figure src="/blog/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="UNCOPIED quintuplicate chirograph." >}}
+
+Our certificates are designed to outlive us. The quintuplicate chirograph provides physical uniqueness to a label and four certificate copies,
+printed on a single sheet of paper. The document can of any size : limitations of the chirographs are overcome by the use of IPFS and
+the blockchain. Each contracting party (the author, the buyer, UNCOPIED and the long term archiver) receive a physical copy of the document. 
+UNCOPIED certificates are archived with the highest level of physical security available. 
+Source digital objects are stored on IPFS, a redundant digital archive. Art object identifiers are stored both with UNCOPIED 
 and on the blockchain as a unique asset (also known as NFT - non fungible token). 
 
 On [UNCOPIED.ORG](https://uncopied.org), you can issue your own certificate and NFTs. Every creator can make ORIGINAL truely UNIQUE. 
 
 If you like this project, please contribute to our [OpenCollective](https://opencollective.com/uncopied), all funding 
 will go to finance our IPFS infrastructure and some open source development.
-
-
-
-
 

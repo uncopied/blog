@@ -24,6 +24,8 @@ Le [Chirographe](https://fr.wikipedia.org/wiki/Chirographe) est une sorte de de 
 ayant servi dès la période médiévale à sécuriser des contrats commerciaux, des traités diplomatiques ou autre transactions importantes - 
 justqu'à ce qu'ils deviennent peu pratique de mettre autant de texte en plusieurs copies sur un seul parchemin. 
 
+{{< figure src="/blog/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="Document notarié sous la forme d'un chirographe en trois parties, daté 1303." >}}
+
 Le chirographe de [Banksy](https://mixmag.fr/read/un-billet-de-banque-signe-banksy-entre-au-british-museum-news), un billet de banque de dix livres qui lui sert à authentifier les certificats émis par son 'Pest Control',
 a été la première oeuvre de l'artiste à entrer dans les prestigieuses collections du British Museum.  
 
@@ -32,10 +34,12 @@ Nous voudrions que les certificats UNCOPIED soient pour toutes et tous, pas uniq
 Nous utilisons les inventions humaines récentes pour rendre de nouveau pratique le chirographe : code bare, qrcode et la 
 dernière génération de la blockchain (plus écologique).
 
-Nos certificats sont conçus pour survivre à notre disparition. Le 'bâton de taille' offre l'unicité physique à une étiquette et à quatre copies 
-du certificat d'authenticité. 
+{{< figure src="/blog/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="Chirographe UNCOPIED en cinq parties." >}}
 
-Chaque partie concernée (le créateur, l'acheteur de l'oeuvre, UNCOPIED, l'archiveur) reçoit une copie du certificat physique avec un morceau du 'bâton de taille' originel. 
+Nos certificats sont conçus pour survivre à notre disparition. Le chirographe offre l'unicité physique et l'authenticité à une étiquette et
+à quatre copies du certificat. 
+
+Chaque personne concernée (le créateur, l'acheteur de l'oeuvre, UNCOPIED, l'archiveur) reçoit une copie du certificat physique avec un morceau du chirographe originel. 
 Les certificats sont archivés avec le plus haut niveau de sécurité physique. Tous les fichiers source sont stockés sur IPFS, une archive digitale
 hautement redondante. Les identifiants numériques des objets d'art sont stockés à la fois sur les serveurs UNCOPIED mais également dans 
 la blockchain sous la forme d'un actif unique (NFT - non fungible token). 

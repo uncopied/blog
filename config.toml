@@ -4,7 +4,7 @@ title = "UNCOPIED blog"
 theme = "ananke"
 publishdir = "docs"
 enableRobotsTXT = true
-
+staticDir = ["static","static/images"]
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
