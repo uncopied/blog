@@ -24,7 +24,7 @@ Le [Chirographe](https://fr.wikipedia.org/wiki/Chirographe) est une sorte de de 
 ayant servi dès la période médiévale à sécuriser des contrats commerciaux, des traités diplomatiques ou autre transactions importantes - 
 justqu'à ce qu'ils deviennent peu pratique de mettre autant de texte en plusieurs copies sur un seul parchemin. 
 
-{{< figure src="/blog/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="Document notarié sous la forme d'un chirographe en trois parties, daté 1303." >}}
+{{< figure src="/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="Document notarié sous la forme d'un chirographe en trois parties, daté 1303." >}}
 
 Le chirographe de [Banksy](https://mixmag.fr/read/un-billet-de-banque-signe-banksy-entre-au-british-museum-news), un billet de banque de dix livres qui lui sert à authentifier les certificats émis par son 'Pest Control',
 a été la première oeuvre de l'artiste à entrer dans les prestigieuses collections du British Museum.  
@@ -34,7 +34,7 @@ Nous voudrions que les certificats UNCOPIED soient pour toutes et tous, pas uniq
 Nous utilisons les inventions humaines récentes pour rendre de nouveau pratique le chirographe : code bare, qrcode et la 
 dernière génération de la blockchain (plus écologique).
 
-{{< figure src="/blog/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="Chirographe UNCOPIED en cinq parties." >}}
+{{< figure src="/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="Chirographe UNCOPIED en cinq parties." >}}
 
 Nos certificats sont conçus pour survivre à notre disparition. Le chirographe offre l'unicité physique et l'authenticité à une étiquette et
 à quatre copies du certificat. 

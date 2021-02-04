@@ -26,11 +26,11 @@ GO, GO, GO ... peut-être aurions nous dû appeler notre projet UNGOPIED. Mais c
 sonne étrange. Comme UN PIED. Un pied, oui, mais un pied dans quoi ? 
 
 Nous utilisons le principe du chirograph pour securiser l'authencicité et l'unicité des documents physiques.
-{{< figure src="/blog/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="Document notarié sous la forme d'un chirographe en trois parties, daté 1303." >}}
+{{< figure src="/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="Document notarié sous la forme d'un chirographe en trois parties, daté 1303." >}}
 
 Par sécurité et pour une bonne redondance, les chirographes UNCOPIED sont en cinq parties, qui sont coupées manuellement aux ciseaux d'une unique feuille de papier vergé ou 
 filigranné. 
-{{< figure src="/blog/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="UNCOPIED tally stick, a quintuplicate chirograph." >}}
+{{< figure src="/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="UNCOPIED tally stick, a quintuplicate chirograph." >}}
 
 Ce premier article va simplement décrire comment nous prévoyons de protéger les certificats physiques UNCOPIED du risque d'INCENDIE (ou autre). 
 Prenons, pour l'exemple, le cas des certificats d'authenticités pour les artistes. 

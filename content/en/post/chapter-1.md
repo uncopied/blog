@@ -31,11 +31,11 @@ So GO, GO, GO ... perhaps we should have named our project UNGOPIED,
 but it would sound funny (UN©PIED already sounds funny in French, a bit like : ONE FOOT). 
 
 We use chirographs to secure the authenticity of physical documents. 
-{{< figure src="/blog/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="English legal document in triplicate #chirograph form, dated 1303." >}}
+{{< figure src="/images/Final_concord_on_land_in_Lincoln_31_Edw_I_1440x642.jpg" title="English legal document in triplicate #chirograph form, dated 1303." >}}
 
 For security and redundancy, our chirographs have FIVE parts, which are cut manually using scissors from a single sheet of paper.
 
-{{< figure src="/blog/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="UNCOPIED tally stick, a quintuplicate chirograph." >}}
+{{< figure src="/images/uncopied_tallystick_quintuplicate_chirograph_crop.png" title="UNCOPIED tally stick, a quintuplicate chirograph." >}}
 
 This first article will simply describe how we plan to protect your UNCOPIED certificates from FIRE. Let's look at
 certificates of authenticity for artists, as an example. 
