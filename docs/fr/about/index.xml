@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A propos on UNCOPIED, le blogue des décopieurs</title>
-    <link>https://uncopied.github.io/blog/fr/about/</link>
+    <link>https://uncopied.art/fr/about/</link>
     <description>Recent content in A propos on UNCOPIED, le blogue des décopieurs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://uncopied.github.io/blog/fr/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language><atom:link href="https://uncopied.art/fr/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
