@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uncopied.art/post/</loc>
+    <loc>https://uncopied.art/blog/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/post/"
+                href="https://uncopied.art/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/post/"
+                href="https://uncopied.art/blog/"
                 />
   </url>
   
@@ -53,17 +53,17 @@
   </url>
   
   <url>
-    <loc>https://uncopied.art/post/chapter-1/</loc>
+    <loc>https://uncopied.art/blog/chapter-1/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/post/chapter-1/"
+                href="https://uncopied.art/fr/blog/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/post/chapter-1/"
+                href="https://uncopied.art/blog/chapter-1/"
                 />
   </url>
   
