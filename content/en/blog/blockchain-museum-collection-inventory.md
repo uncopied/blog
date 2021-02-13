@@ -59,7 +59,7 @@ Metadata or any digital asset referenced by the object’s metadata is saved in 
 As part of UNCOPIED’s open-source development roadmap is a connector to synchronize with GitHub and benefit from its very-long-term archival facility. Opening the collections’ metadata to public scrutiny using open data, as many museums have done on GitHub, offers a strong level of protection. It also reinforces the collective sense of ownership and responsibility towards preserving cultural heritage. 
 
 
-## Benefits of using UNCOPIED Certificates of Inventory
+## Benefits of UNCOPIED Certificates of Inventory
 -	UNCOPIED adds an extra layer of security to existing collection management systems, thus reusing existing museum investments – not requiring any complex new software installation.
 -	Museums can more easily disseminate public data about their collections, in future-proof formats and standards such as JSON.
 -	Inventory becomes a more transparent process open to public scrutiny, creating additional levels of security for the long term preservation of the 95% of Museum’s collections that are kept in storage.
