@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Can the blockchain help secure Museum collections? | UNCOPIED, a blog for uncopiers</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Aftermath of COVID-19 : cultural heritage at risk">
+    <meta name="generator" content="Hugo 0.81.0-DEV" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+
+  
+  
+    <link rel="stylesheet" href="/ananke/dist/main.css_5c99d70a7725bacd4c701e995b969fea.css" >
+  
+
+
+
+
+    
+      
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" sizes="180x180" type="image/png" />
+	<link rel="icon" href="/images/favicon-32x32.png" sizes="32x32" type="image/png" />
+	<link rel="icon" href="/images/favicon-16x16.png" sizes="16x16" type="image/png" />
+	<link rel="manifest" href="/images/site.webmanifest">
+
+
+    
+
+    
+
+    
+    
+    <meta property="og:title" content="Can the blockchain help secure Museum collections?" />
+<meta property="og:description" content="Aftermath of COVID-19 : cultural heritage at risk" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://uncopied.art/blog/blockchain-museum-collection-inventory/" />
+<meta property="article:published_time" content="2021-02-13T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-02-13T00:00:00+00:00" /><meta property="og:site_name" content="UNCOPIED, a blog for uncopiers" />
+<meta itemprop="name" content="Can the blockchain help secure Museum collections?">
+<meta itemprop="description" content="Aftermath of COVID-19 : cultural heritage at risk">
+<meta itemprop="datePublished" content="2021-02-13T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-02-13T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1291">
+
+
+
+<meta itemprop="keywords" content="sécurité,conservation," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Can the blockchain help secure Museum collections?"/>
+<meta name="twitter:description" content="Aftermath of COVID-19 : cultural heritage at risk"/>
+<meta name="msvalidate.01" content="3E4352F9ADA0BE58AFE7543CECAD66F9" />
+    
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-39KSEP0Q8X"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-39KSEP0Q8X');
+	</script>
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://uncopied.art/images/joconde-oh-no-min.jpg');">
+    <div class="pb3-m pb6-l bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        UNCOPIED, a blog for uncopiers
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Articles page">
+              Articles
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+<a href="https://twitter.com/uncopied_art" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+  <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Can the blockchain help secure Museum collections?</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              Aftermath of COVID-19 : cultural heritage at risk
+            </h2>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        ARTICLES
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://uncopied.art/blog/blockchain-museum-collection-inventory/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://uncopied.art/blog/blockchain-museum-collection-inventory/&amp;text=Can%20the%20blockchain%20help%20secure%20Museum%20collections?" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://uncopied.art/blog/blockchain-museum-collection-inventory/&amp;title=Can%20the%20blockchain%20help%20secure%20Museum%20collections?" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Can the blockchain help secure Museum collections?</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2021-02-13T00:00:00Z">February 13, 2021</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="preparing-for-the-aftermath-of-covid-19-our-cultural-heritage-is-at-risk">Preparing for the aftermath of COVID-19: our cultural heritage is at risk</h2>
+<p>A 2011 survey by <a href="http://www.unesco.org/new/en/culture/themes/dynamic-content-single-view/news/stored_but_not_safe_museum_collections_are_at_risk_worldwid">ICCROM/UNESCO</a> has revealed that up to 60% of Museum collections are endangered globally. Storage overloads, poor conditions for conservation, budget constraints contribute to risk factors. 95% of Museum’s collections are kept in storage. Billions of objects are kept away from public sight. 
+One in four Museums have <a href="https://www.iccrom.org/section/preventive-conservation/re-org">incomplete documentation systems</a>. One in ten museums or less, have made their entire collections digitally accessible with pictures and metadata. Barely 0.1% of museums disseminate metadata in a usable format (such as CSV, XML or JSON).</p>
+<p>As of February 2021, COVID19 has already had an unprecedented impact on tourism worldwide, placing further pressure on heritage conservation. 90% of countries have closed World Heritage Sites, with immense socio-economic consequences for communities reliant on tourism. Further, 90% of museums closed and <a href="https://news.un.org/en/story/2020/05/1064362">13% may never reopen</a>.</p>
+<p>An economic crisis may still be ahead of us, undermining public government’s ability to finance conservation – placing many Museums in a situation where the risks are multiplied (civil unrest, fraud, corruption, …) and resources already strained are diminished (time, budget, money). In such challenging environment, the risks for objects in storage to be destroyed or illegally sold is increased tenfold.</p>
+<p>To prevent such threats, the periodic inventory of collections is an essential process: maintain accurate descriptions, pictures, scientific documentation; verify identification and markings; check it the collection database is up to date; ensure physical security of objects. In a budget-constrained situation, databases and backups can be lost too. Even harder to spot, data tampering is the act of deliberately modifying (destroying, manipulating, or editing) data through unauthorized channels.</p>
+<p>Every one of the 25 collection management systems listed in <a href="https://collectionstrust.org.uk/software/">Collections Trust</a> and Wikipedia use a relational database, vulnerable to data loss or tampering. Only one new entrant, <a href="https://www.journaldeleconomie.fr/Olivier-Marian-Arteia-%E2%80%89Une-solution-de-catalogage-et-de-gestion-des-collections-d-oeuvres-d-art-pour-les_a7249.html">Arteïa</a>, offers native protection against data tampering using public blockchain technology . Some institutions have used GitHub as a tamper-proof and long-term archive for their collections metadata: <a href="https://github.com/wcmaart/collection">Williams College Museum of Art</a> (WCMA) , <a href="https://github.com/tategallery/collection">The Tate</a>,  <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art</a> (MoMA) , the <a href="https://github.com/artsmia/collection">Minneapolis Institute of Art</a>, the <a href="https://github.com/cmoa/collection">Carnegie Museum of Art</a>, <a href="https://github.com/cooperhewitt/collection">Cooper Hewitt</a> Smithsonian Design Museum , The <a href="https://github.com/metmuseum/openaccess">Metropolitan Museum of Art</a>. These GitHub repositories have all been preserved in the Arctic Code Vault, a very-long-term archival facility 250 meters deep in the permafrost of an Arctic mountain – so their conservation is as safe as it can be. Unfortunately, there is no simple way for the ordinary citizen -other than a computer-savvy ‘geek’- to query such data or metadata.</p>
+<p>Sadly, they are often incomplete. Even when the collections database is made public, the object’s metadata is not systematically linked to the object’s picture. A vivid example is the French Museum’s <a href="https://data.culture.gouv.fr/explore/dataset/base-joconde-extrait/export/">JOCONDE database</a>, which is accessible as open-data in a reusable format (CSV, JSON, XML), but the other digital assets (low definition or high-definition pictures) are distributed separately on each Museum’s web site – if at all.</p>
+<p>Some Museums are more affected than others. Museums in Africa are in extreme situation of difficulty. The <a href="https://musee-national-mali.org/">National Museum of Mali</a>, for example, had to cope with a long sequence of negative events since 2012 (Mali security crisis, political instability, COVID-19 &hellip;)</p>
+<h2 id="can-virtual-visits-help-restore-museums-financial-stability">Can virtual visits help restore Museum’s financial stability?</h2>
+<p>As Museums were closed to visitors worldwide, many new technologies have emerged to allow virtual visits. High-tech gadgets (virtual reality in 3D, 5G etc.) promise to immerse visitors in the Museum’s permanent collections, or even to discover collections in the storage rooms.</p>
+<p>A recent 5G promotion campaign by French telecom company Orange shows pupils visiting Le Louvre and (virtually) <a href="https://www.universfreebox.com/article/60345/orange-devoile-sa-nouvelle-publicite-pour-la-5g-et-ses-promesses-d-innovation">ransacking the Museum</a>. Let’s hope those virtual visits do not replace the ‘real’ thing : pupils discovering Le Louvre for the first time, with their teachers and friends and learning to respect their cultural heritage.</p>
+<p>In this virtual world, the objects can exist, magnified, digitally restored using Instagram-like filters – while the physical objects get forgotten.</p>
+<p>It is still unclear what the economic model will be for such innovations, and how Museums will benefit financially of those virtual visits. Can virtual visits or digital licensing rights compensate for the loss of physical visitors and help finance physical objects conservation? Or will those new technologies divert funding from conservation, towards activities with a more direct return on investment? This would be dangerous.</p>
+<h2 id="uncopied-art-value-proposition-for-collections-inventory">UNCOPIED ART value proposition for collections inventory</h2>
+<p>UNCOPIED expands on the availability of existing collections management software, but it adds an extra layer of security against tampering. It facilitates the dissemination of open data. It uses blockchain technology to add transparency to the object’s lifecycle and status (ex. lending/borrowing, acquisition or sale, theft, loss or destruction…) 
+UNCOPIED Certificates of Inventory link a physical object with a tamper-proof artwork identifier, immutable and permanent storage for photographs and meta-data.</p>
+<p>The UNCOPIED label is printed on a quintuplicate chirograph, with a RFID/NFC chip. In some cases, the label can be directly stuck on the object in compliance with Labelling and marking best practices of Collections Trust  , the French Ministère de la Culture  or ICOM International Observatory on Illicit Traffic in Cultural Goods . But in the general case, UNCOPIED does not change anything to the existing object identification, labelling and marking. One photographic print of the object with the UNCOPIED label glued to its back acts as a proxy for the original object: it can be placed on display when the object is on loan or being restored. At any time, the object’s lifecycle and status can be accessed by scanning the QR Code or NFC chip from a standard smartphone.</p>
+<p>Physical certificates of inventory are quadruplicate documents secured by the chirograph and archived in multiple copies, by the Museum, by UNCOPIED and by a trusted third-party. In France, for example, only twenty companies or so have accreditations to archive papers on behalf of the government .
+The UNCOPIED digital certificate is a human-readable document secured using the ALGORAND blockchain, creating an Algorand Standard Asset (ASA – the equivalent of NFT for Ethereum Blockchain). Algorand is a new generation blockchain technology that is secure, distributed, and scalable. 
+Metadata or any digital asset referenced by the object’s metadata is saved in a long-term storage distributed database IPFS (the Interplanetary File System). High-definition and lower-definition images can be distributed with different licences, to comply with Copyright Laws (ex. ‘All Rights Reserved’ for High-definition images and ‘Creative-Commons’ for Low-definition images).</p>
+<p>As part of UNCOPIED’s open-source development roadmap is a connector to synchronize with GitHub and benefit from its very-long-term archival facility. Opening the collections’ metadata to public scrutiny using open data, as many museums have done on GitHub, offers a strong level of protection. It also reinforces the collective sense of ownership and responsibility towards preserving cultural heritage.</p>
+<h2 id="benefits-of-using-uncopied-certificates-of-inventory">Benefits of using UNCOPIED Certificates of Inventory</h2>
+<ul>
+<li>UNCOPIED adds an extra layer of security to existing collection management systems, thus reusing existing museum investments – not requiring any complex new software installation.</li>
+<li>Museums can more easily disseminate public data about their collections, in future-proof formats and standards such as JSON.</li>
+<li>Inventory becomes a more transparent process open to public scrutiny, creating additional levels of security for the long term preservation of the 95% of Museum’s collections that are kept in storage.</li>
+<li>Visitors can scan a QR Code and access additional information about an object in the public collections : when was it acquired? How is the object documented or cross-refenced? Any restoration work, borrowing or lending is recorded in the traceable log of the blockchain.</li>
+<li>No single person can tamper with critical data elements, such as the artwork ID, the photographs or the metadata. In case of fraud or looting, the object‘s stolen status is quickly communicated globally.</li>
+</ul>
+<p>We plan to soft-launch <a href="https://uncopied.org/">UNCOPIED</a> in April 2021.</p>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/tags/s%C3%A9curit%C3%A9" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">sécurité</a>
+   </li>
+  
+   <li class="list">
+     <a href="/tags/conservation" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">conservation</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/blog/chapter-1/">UNCOPIED I: The Grand Hall</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://uncopied.art" >
+    &copy;  UNCOPIED, a blog for uncopiers 2021 
+  </a>
+    <div>
+
+
+
+
+<a href="https://twitter.com/uncopied_art" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+  <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
