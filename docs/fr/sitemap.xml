@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uncopied.art/fr/tags/conservation/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/tags/conservation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/tags/conservation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/fr/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/fr/blog/blockchain-et-recolement-collections/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/tags/s%C3%A9curit%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/tags/s%C3%A9curit%C3%A9/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/fr/tags/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://uncopied.art/fr/blog/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,38 +83,8 @@
   </url>
   
   <url>
-    <loc>https://uncopied.art/fr/</loc>
-    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uncopied.art/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://uncopied.art/fr/"
-                />
-  </url>
-  
-  <url>
     <loc>https://uncopied.art/fr/tags/securit%C3%A9/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/</loc>
-    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uncopied.art/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://uncopied.art/fr/tags/"
-                />
   </url>
   
   <url>

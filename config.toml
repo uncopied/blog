@@ -50,3 +50,4 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image-min.jpg"
   recent_posts_number = 5
+  env = "production"
