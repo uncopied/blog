@@ -33,8 +33,18 @@
   </url>
   
   <url>
-    <loc>https://uncopied.art/fr/blog/blockchain-et-recolement-collections/</loc>
+    <loc>https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/blog/blockchain-museum-collection-inventory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/"
+                />
   </url>
   
   <url>
