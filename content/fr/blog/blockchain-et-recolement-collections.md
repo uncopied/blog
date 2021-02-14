@@ -38,7 +38,7 @@ Une [campagne de publicité](https://www.universfreebox.com/article/60345/orange
 Le modèle économique pour ce genre d'innovations reste encore un peu flou et on peut se demander comment les musées en bénéficieront financièrement. Ces visites virtuelles ou droits de licence digitale compenseront-ils la perte de visiteurs physiques et aideront-ils à financer la conservation des objets réels? Ou détourneront ces nouvelles technologies le financement de la conservation de ces objets vers un retour sur investissement plus direct?
 
 
-## UNCOPIED ART, une innovation pour l'inventaire des collections
+## UNCOPIED ART, une innovation pour le récolement décénal des collections
 
 UNCOPIED s'intrègre avec les logiciels de gestion de collection déjà existants, mais ajoute une couche de sécurité contre la falsification des données. Le logiciel facilite la distribution de données publiques et utilise la blockchain pour rendre transparent le cycle de vie de l'objet, ainsi que son statut (par exemple, prêt/emprunt, acquisition/vente, vol ou destruction). Les Certificats d'Inventaire UNCOPIED lient un objet physique avec un identifiant infalsifiable, immuable et permanent qui permet le stockage de photos et métadonnées.
 
