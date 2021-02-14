@@ -2,7 +2,7 @@
 date: 2021-01-29
 description: "A first chapter of UNCOPIED history"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["sécurité"]
+tags: ["security"]
 title: "UNCOPIED I: The Grand Hall"
 ---
 

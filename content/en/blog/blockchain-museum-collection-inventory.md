@@ -2,7 +2,7 @@
 date: 2021-02-13
 description: "Aftermath of COVID-19 : cultural heritage at risk"
 featured_image: "/images/joconde-oh-no-min.jpg"
-tags: ["sécurité","conservation"]
+tags: ["security","conservation"]
 title: "Can the blockchain help secure Museum collections?"
 ---
 
