@@ -48,4 +48,6 @@ Sur le site [UNCOPIED.ORG](https://uncopied.org), vous pouvez générer vos prop
 Tout esprit créateur peut fabriquer de l'unicité, à partir de l'originalité. 
 
 Si vous aimer ce projet, contribuez à notre [Collectif](https://opencollective.com/uncopied), ce financement est 
-spécifiquement dédié à l'hébergement de l'infrastructure IPFS et au développement open source.
+spécifiquement dédié à l'hébergement de l'infrastructure IPFS et au développement open source. Nous remercions 
+chaleureusement nos sponsors OpenColltective Europe,
+* [NamSor SAS](https://www.namsor.com/)
