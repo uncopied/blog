@@ -42,6 +42,23 @@ In this virtual world, the objects can exist, magnified, digitally restored usin
 It is still unclear what the economic model will be for such innovations, and how Museums will benefit financially of those virtual visits. Can virtual visits or digital licensing rights compensate for the loss of physical visitors and help finance physical objects conservation? Or will those new technologies divert funding from conservation, towards activities with a more direct return on investment? This would be dangerous.
 
 
+## So is it all doom and gloom ? 
+
+Technology can help ! Some ideas,
+
+### Museums could embrace Open Source software
+
+Open Source is not free. You still have to install and maintain it. But used wisely it can help keep IT costs at bay. It offers flexibility to create highly customized solutions. Open source collections manamement software include CollectionSpace and GlamKit. [CollectionSpace](https://collectionspace.org/) is maintained by [Lyrasis](https://www.lyrasis.org/), a non profit organization focused on enabling equitable access to the world’s knowledge and cultural heritage.​ For content management (CMS), [The Interaction Consortium](https://interaction.net.au/) has build considerable expertise building GlamKit and has now turned [Wagtail](https://wagtail.io/) into a CMS for museums by extending it. 
+
+### Museums could store digital assets on GitHub or IPFS
+
+Storing large digital assets reliably is costly. As an example, the French National Library has built the highly redundant infrastructure [SPAR](https://www.bnf.fr/fr/infrastructure-materielle-de-spar-systeme-de-preservation-et-darchivage-reparti) , replicated accross several locations, to preserve digital assets in the long term. There were probably no better alternatives at the time and with a 220 million euro yearly budget, the BNF can affort to maintain such infrastructure. But if an organization were to design a digital archive today, it would be possible to use alternative solutions such as GitHub or the [InterPlanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System) (IPFS). Those solutions offer the same level of redundancy, at a fraction of the cost. It is possible to rely on the community to participate in the distributed cluster and provide additional redundancy against exterme disasters (such as earthquakes, or floodings).
+
+### Museums could adopt standards for Metadata
+
+Structuring data is complex, every Museum has different types of objects. Describing those objects in a consistent way is not a piece of cake. Currently, every Museum reinvents the wheel when it comes to describing its collections, or just translate what was on a paper trail to a digital format (such as XML or JSON or CSV). But Museums could get together and build a standard that works for the next 100 years. For that, they could reuse and expand on Schema.org or Europeana. A Schema.org type is a must to reach out to internet visitors, as it powers the semantic web and speaks to the ears of Google Search Engine : for example, the [VisualArtwork](https://schema.org/VisualArtwork) schema describes any work of art that is primarily visual in character (painting, photography ...) The Europeana [Data Model](https://pro.europeana.eu/page/edm-documentation) is a huge collaborative effort that has involved over 60 participating Museums. And it works ! Museums can use Europeana to a new distribution channel, working with an [aggregator](https://pro.europeana.eu/page/aggregators) to publish their collections. 
+
+
 ## UNCOPIED ART value proposition for collections inventory
 
 UNCOPIED expands on the availability of existing collections management software, but it adds an extra layer of security against tampering. It facilitates the dissemination of open data. It uses blockchain technology to add transparency to the object’s lifecycle and status (ex. lending/borrowing, acquisition or sale, theft, loss or destruction…) 
