@@ -28,7 +28,7 @@ Sadly, they are often incomplete. Even when the collections database is made pub
 
 Some museums are more affected than others. Museums in Africa are in an extremely difficult situation. The [National Museum of Mali](https://musee-national-mali.org/), for example, had to cope with a long sequence of negative events since 2012 (Mali security crisis, political instability, COVID-19, etc.)
 
-## Can virtual visits help restore museum’s financial stability?
+## Can virtual visits help restore a museum’s financial stability?
 
 As museums were closed to visitors worldwide, many new technologies have emerged to allow virtual visits. High-tech gadgets (virtual reality in 3D, 5G, etc.) promise to immerse visitors in the museum’s permanent collections, or even to discover collections in the storage rooms. 
 
@@ -39,7 +39,7 @@ A recent 5G promotional campaign by a French telecom company, Orange, shows pupi
 In this virtual world, the objects can exist, be magnified and be digitally restored using Instagram-like filters – while the physical objects are forgotten. 
 
 
-It is still unclear what the economic model will be for such innovation, and how Museums will financially benefit from those virtual visits. Can virtual visits or digital licensing rights compensate for the loss of physical visitors and help finance physical object conservation? Or will those new technologies divert funding from conservation towards activities with a more direct return on investment? This would be dangerous.
+It is still unclear what the economic model will be for such innovation, and how museums will financially benefit from those virtual visits. Can virtual visits or digital licensing rights compensate for the loss of physical visitors and help finance physical object conservation? Or will those new technologies divert funding from conservation towards activities with a more direct return on investment? This would be dangerous.
 
 
 ## So, is it all doom and gloom? 
@@ -48,7 +48,7 @@ Technology can help! Here are some ideas:
 
 ### Museums could embrace open-source software
 
-Open source software is not free. You still have to install and maintain it, but used wisely it can help keep IT costs at bay. It offers the flexibility to create highly customised solutions. Open-source collections management software include CollectionSpace and GlamKit. [CollectionSpace](https://collectionspace.org/) is maintained by [Lyrasis](https://www.lyrasis.org/), a non-profit organisation focused on enabling equitable access to the world’s knowledge and cultural heritage.​ For content management systems (CMS), [The Interaction Consortium](https://interaction.net.au/) has build considerable expertise when building GlamKit and has now turned [Wagtail](https://wagtail.io/) into a CMS for museums by extending it. A very comprehensive comparison of [collections management systems](https://www.canada.ca/en/heritage-information-network/services/collections-management-systems.html) was done by the Governement of Canada between 2016 and 2019.
+Open source software is not free. You still have to install and maintain it, but used wisely it can help keep IT costs at bay. It offers the flexibility to create highly customised solutions. Open-source collections management software include CollectionSpace and GlamKit. [CollectionSpace](https://collectionspace.org/) is maintained by [Lyrasis](https://www.lyrasis.org/), a non-profit organisation focused on enabling equitable access to the world’s knowledge and cultural heritage.​ For content management systems (CMS), [The Interaction Consortium](https://interaction.net.au/) has incorporated considerable expertise when building GlamKit and has now turned [Wagtail](https://wagtail.io/) into a CMS for museums by extending it. A very comprehensive comparison of [collections management systems](https://www.canada.ca/en/heritage-information-network/services/collections-management-systems.html) was done by the Governement of Canada between 2016 and 2019.
 
 ### Museums could store digital assets on GitHub or IPFS
 
@@ -56,7 +56,7 @@ Storing large digital assets reliably is costly. As an example, the French Natio
 
 ### Museums could adopt standards for metadata
 
-Structuring data is complex, every museum has different types of objects. Describing those objects in a consistent way is not a piece of cake. Currently, every museum reinvents the wheel when it comes to describing its collections, or just translate what was on a paper trail to a digital format (such as XML or JSON or CSV). But museums could get together and build a standard that works for the next 100 years. For that, they could re-use and expand on Schema.org or Europeana. Complying with Schema.org definitions to describe objects helps better reach internet visitors, as it powers the semantic web and speaks to the ears of the Google Search Engine. For example, the [VisualArtwork](https://schema.org/VisualArtwork) schema describes any work of art that is primarily visual in character (painting, photography, etc.). The Europeana [Data Model](https://pro.europeana.eu/page/edm-documentation) is a huge collaborative effort that has involved over 60 participating museums, and it works! Museums can use Europeana as a new distribution channel, working with an [aggregator](https://pro.europeana.eu/page/aggregators) to publish their collections. 
+Structuring data is complex, every museum has different types of objects. Describing those objects in a consistent way is not a piece of cake. Currently, every museum reinvents the wheel when it comes to describing its collections, or just translate what was on a paper trail to a digital format (such as XML or JSON or CSV). But museums could get together and build a standard that works for the next 100 years. For that, they could re-use and expand on Schema.org or Europeana. Using Schema.org definitions to describe objects helps reach internet visitors, as Schema.org powers the semantic web and speaks to the ears of the Google Search Engine. For example, the [VisualArtwork](https://schema.org/VisualArtwork) schema describes any work of art that is primarily visual in character (painting, photography, etc.). The Europeana [Data Model](https://pro.europeana.eu/page/edm-documentation) is a huge collaborative effort that has involved over 60 participating museums, and it works! Museums can use Europeana as a new distribution channel, working with an [aggregator](https://pro.europeana.eu/page/aggregators) to publish their collections. 
 
 
 ## UNCOPIED ART value proposition for collections inventory
@@ -83,6 +83,6 @@ As part of UNCOPIED’s open-source development, the roadmap includes developpin
 -	No single person can tamper with the critical data elements, such as the artwork ID, the photographs or the metadata. In case of fraud or looting, the object‘s stolen status is quickly communicated globally. 
 
 
-We plan to soft-launch [UNCOPIED](https://uncopied.org/) in April 2021.
+We plan to soft launch [UNCOPIED](https://uncopied.org/) in April 2021.
 
  
