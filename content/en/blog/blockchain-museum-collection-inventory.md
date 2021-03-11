@@ -74,7 +74,6 @@ Metadata, or any digital asset referenced by the object’s metadata, is saved i
 
 As part of UNCOPIED’s open-source development, the roadmap includes developping a connector to synchronize with both IPFS and GitHub and benefit from its GitHub's very long-term archival facility. Opening the collections’ metadata to public scrutiny using open data, as many museums have done on GitHub, offers a strong level of protection. It also reinforces the collective sense of ownership and responsibility towards preserving cultural heritage. 
 
-
 ## Benefits of UNCOPIED Certificates of Inventory
 -	UNCOPIED adds an extra layer of security to existing collection management systems, thus re-using existing museum investments and not requiring any complex new software installation.
 -	Museums can more easily disseminate public data about their collections in future-proof formats and standards such as JSON.
@@ -82,6 +81,12 @@ As part of UNCOPIED’s open-source development, the roadmap includes developpin
 -	Visitors can scan a QR Code and access additional information about an object in the public collections: when was it acquired? How is the object documented or cross-referenced? Any restoration work, borrowing or lending is recorded in the traceable log of the blockchain. 
 -	No single person can tamper with the critical data elements, such as the artwork ID, the photographs or the metadata. In case of fraud or looting, the object‘s stolen status is quickly communicated globally. 
 
+## First public presentation
+UNCOPIED was first presented on the 5th of March 2021 as part of [MaliCulture's eConference](https://musee-national-mali.org/2021/03/02/econference-maliculture-le-05-mars-2021-a-15h-de-bamako/) with representatives of the Metropolitan Museum of Art, Block Museum - Northwestern University, Quai Branly, National Museum of Mali.
+
+{{< youtube id="BMseVRRfFm0" autoplay="false" >}}
+
+The presentation is in French with English sub-titles. 
 
 We plan to soft launch [UNCOPIED](https://uncopied.org/) in April 2021.
 

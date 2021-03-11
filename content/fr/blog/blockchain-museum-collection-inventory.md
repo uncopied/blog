@@ -60,5 +60,11 @@ Dans le cadre du développement open-source d'UNCOPIED nous prévoyons un systè
 -    Les visiteurs peuvent scanner un QR code et accéder à différentes informations additionnelles sur un objet dans la collection publique : Quand a-t-il été acquis? Comment l'objet est-il documenté et où a-t-il été référencé? Tout travail de restauration, prêt ou emprunt est enregistré dans l'historique de la blockchain.
 -    Personne ne peut modifier les données critiques de l'objet, comme l'id de l'œuvre, les images, ou ses métadonnées. En cas de fraude ou de vol, le statut volé de l'objet est rapidement communiqué globalement.
 
+## Première présentation publique
+UNCOPIED a été présenté le 5 mars lors d'une e-conférence organisée par [MaliCulture](https://musee-national-mali.org/2021/03/02/econference-maliculture-le-05-mars-2021-a-15h-de-bamako/) avec un panel composé de représentants de plusieurs musées (Metropolitan Museum of Art, Block Museum - Northwestern University, Quai Branly, Musée National du Mali).
+
+{{< youtube id="BMseVRRfFm0" autoplay="false" >}}
+
+La présentation est en français avec des sous-titres (français - anglais). 
 
 Nous prévoyons un lancement en douceur de [UNCOPIED](https://uncopied.org/) pour Avril 2021.
