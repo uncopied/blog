@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uncopied.art/about/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/about/chirograph/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/about/chirograph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/about/chirograph/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://uncopied.art/about/team/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://uncopied.art/fr/about/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uncopied.art/about/team/"
+                />
+  </url>
+  
+  <url>
     <loc>https://uncopied.art/blog/blockchain-museum-collection-inventory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -29,21 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://uncopied.art/tags/conservation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/</loc>
-    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://uncopied.art/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uncopied.art/"
                 />
   </url>
   
@@ -94,20 +139,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://uncopied.art/blog/chapter-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://uncopied.art/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uncopied.art/about/"
                 />
   </url>
   
