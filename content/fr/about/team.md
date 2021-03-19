@@ -23,7 +23,7 @@ Alexander est développeur senior Golang, en charge de concevoir les interfaces 
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha sont développeuses ouaibe, en charge de l'interface utilisateur. 
 
-### Stagiaire à compter du 1er Avril
+### Stagiaire à compter du 1er Mai
 Nous sommes ravis d'accueillir bientôt une stagiaire qui apportera son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
 
 ## Scientific Committee

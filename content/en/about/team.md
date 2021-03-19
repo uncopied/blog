@@ -22,7 +22,7 @@ Alexander is a senior Golang developper, in charge of re-architecting the UNCOPI
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha are web developpers, in charge of the UNCOPIED user interface. 
 
-### New Intern from 1st April
+### New Intern from 1st May
 We're looking forward to welcoming her : out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
 
 ## Scientific Committee
