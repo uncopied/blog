@@ -26,13 +26,13 @@ Adyasha and Alisha sont développeuses ouaibe, en charge de l'interface utilisat
 ### Stagiaire à compter du 1er Mai
 Nous sommes ravis d'accueillir bientôt une stagiaire qui apportera son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
 
-## Scientific Committee
+## Comité Scientifique
 Comme produit dérivé de la sécurisation des oeuvres d'art dans une 'blockchain', UNCOPIED va produire de nouvelles informations accessible en format de données ouvertes. 
 Nous voulons également offrir de nouvelles méthodes pour sécuriser la conservation digitale des collections muséales, et mieux disséminer les métadonnées concernant les objets conservés dans les musées du monde entier. 
 Le rôle du comité scientifique est de permettre à ces jeux de données d'être accessibles à d'autres chercheurs, dans le respect des intérêts des parties prenantes, de préserver les données privées, du respect de l'éthique des recherches. 
 
 ### Eveline WANDL-VOGT, Austrian Academy Of Sciences
-Eveline Wandl-Vogt est expérimentaliste, fondatrice et directrice senior à Ars Electronica Research Institute knowledge for humanity (k4h+) et fondatrice et coordinatrice du centre multidisciplinaire de l'Academie des Sciences d'Autriche. Eveline est affiliée au Harvard metaLAB.
+Eveline Wandl-Vogt préside le comité scientifique UNCOPIED. Eveline est expérimentaliste, fondatrice et directrice senior à Ars Electronica Research Institute knowledge for humanity (k4h+) et fondatrice et coordinatrice du centre multidisciplinaire de l'Academie des Sciences d'Autriche. Eveline est affiliée au Harvard metaLAB.
 
 ### Dario RODIGHIERO, Harvard University
 Dario est chercheur au Harvard Metalab, une unité de recherche du Berkman Klein Center for Internet & Society dédié à l'innovation dans les arts et les sciences sociales. 
