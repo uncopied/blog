@@ -14,17 +14,17 @@ Avec UNCOPIED, Elian réinvente le chirographe. Une technologie millénaire comb
 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
 
-### Amandine ROSSIGNOL
-Amandine est designer et a contribué à la conception du site ouaibe.
+### Violette VERSAEVEL
+Violette, étudiante en Droit et Histoire de l'Art, stagiaire, apporte son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
 
 ### Alexander TEPLOV
-Alexander est développeur senior Golang, en charge de concevoir les interfaces côté serveur et les micro-services. 
+Alexander est développeur senior Golang, en charge de concevoir les interfaces côté serveur et les micro-services.
 
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha sont développeuses ouaibe, en charge de l'interface utilisateur. 
 
-### Stagiaire à compter du 1er Mai
-Nous sommes ravis d'accueillir bientôt une stagiaire qui apportera son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
+### Amandine ROSSIGNOL
+Amandine est designer et a contribué à la conception du site ouaibe.
 
 ## Scientific Committee
 Comme produit dérivé de la sécurisation des oeuvres d'art dans une 'blockchain', UNCOPIED va produire de nouvelles informations accessible en format de données ouvertes. 
@@ -38,18 +38,21 @@ Eveline Wandl-Vogt est expérimentaliste, fondatrice et directrice senior à Ars
 Dario est chercheur au Harvard Metalab, une unité de recherche du Berkman Klein Center for Internet & Society dédié à l'innovation dans les arts et les sciences sociales. 
 Ses recherches sont co-financées par la Swiss National Science Foundation. Dario a un PhD de l'EPFL et a été membre du MIT, de Sciences Po, et expert pour le compte de la Commission Européenne.
 
+### François BANCILHON, INRIA Alumni
+François est un scientifique (ex-INRIA), un entrepreneur, un pionnier de l'open data et du big data, un sportif et un cinéphile. 
+
 ## Project Pilote : le Musée National du Mali
 
 Notre premier projet pilote est avec le Musée National du Mali, visant à créer de nouvelles solidarités entre le Nord et le Sud, entre des artistes contemporains et la nécessaire conservation d'un héritage culturel. 
 {{< youtube id="7DOKOlUWDCY" autoplay="false" >}}
 
-L'équipe est basée à Paris et à Bamako. 
+L'équipe projet pilote est basée à Paris et à Bamako. 
 
 
 ### Dia SACKO, Mali Culture
 Artiviste, éditrice, activiste, experte en communication, Dia Yaye SACKO porte à la perfection ces multiples casquettes. 
 MaliCulture est une jeune et nouvelle initiative de Dia Djélimady SACKO, Femme de Lettres, de Culture, Chargée de communication et Ex-professeur de Lettres, consultante en édition. Entreprenante et passionnée de Médias et de Culture, la franco-malienne travaille pour faire de Mali Culture la référence médiatique en matière de vulgarisation des expressions culturelles au Mali. Avec son équipe, elle entend accompagner les entreprises culturelles dans la diffusion et la valorisation de la culture malienne. Dia est diplômée d’un Master2 de Lettres Recherche et de Science de l’Éducation de l’Université de Toulouse.
 
-### Nouvelle stagiaire à partir du 1er Juin (à confirmer)
+### Nouvelle stagiaire à partir du 1er Juin
 Compétences: conservation, muséologie.
 

@@ -1,8 +1,8 @@
 ---
-date: 2021-03-17
+date: 2021-05-15
 title: UNCOPIED team
 omit_header_text: true
-description: We'd love to hear from you
+description: UNCOPIED team is international and multidisciplinary
 ---
 
 ## Core Team and Open Collective
@@ -13,17 +13,17 @@ He co-founded GenderGapGrader, promoting gender diversity through data and APIs.
 For UNCOPIED, Elian reinvented the chirograph and used QR Codes, blockchain technology to make it practical again. 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
 
-### Amandine ROSSIGNOL
-Amandine is a web designer and contributed the UNCOPIED web site wire frames. 
+### Violette VERSAEVEL
+Violette, legal intern, brings out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
 
 ### Alexander TEPLOV
-Alexander is a senior Golang developper, in charge of re-architecting the UNCOPIED back-end as an open API and micro-services. 
+Alexander is a senior Golang developper, in charge of re-architecting the UNCOPIED back-end as an open API and micro-services.
 
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha are web developpers, in charge of the UNCOPIED user interface. 
 
-### New Intern from 1st May
-We're looking forward to welcoming her : out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
+### Amandine ROSSIGNOL
+Amandine is a web designer and contributed the UNCOPIED web site wire frames.
 
 ## Scientific Committee
 As a byproduct of securing art works on a transparent blockchain, UNCOPIED will produce new information accessible to scientists as open data. Also, UNCOPIED aims to provide new methods to secure museum digital collections and disseminate metadata about museum objects. The role of the scientific committee is to help make these dataset accessible to other researchers, while respecting stakeholders interests, privacy and ethnical concerns. 
@@ -40,12 +40,15 @@ Dario is a scholar at the Harvard Metalab, a research unit hosted at the Berkman
 
 Network visualizations are instruments for distant reading, a visual approach to explore large phenomena. The Cartography of COVID-19 is about the scientific literature that has been produced in the last months to understand how the coronavirus affects society. The work has no pretense to explain the phenomena but rather to make visible the effort of scientists through their scientific production, totaling 170,000 articles on July 1, 2020.
 
+### François BANCILHON, INRIA Alumni
+François is a serial entrepreneur, an ex-academic researcher (databases), fan of big data, data science, open data, running and movies.
+
 ## Pilot Project : National Museum of Mali
 
 Our first pilot project with the National Museum of Mali aims to create new solidarity between the North and the Global South, between contempory artists and the necessary conservation of a national cultural heritage. 
 {{< youtube id="7DOKOlUWDCY" autoplay="false" >}}
 
-The project team is based both in Paris and Bamako. 
+The pilot project team is based both in Paris and Bamako. 
 
 ### Dia SACKO, Mali Culture
 Dia is foundress of the premier web site on Mali Culture. She is a woman of culture, an entrepreneur, a feminist activist, a change maker, an optimist.  

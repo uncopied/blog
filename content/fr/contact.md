@@ -2,7 +2,7 @@
 title: Discutons
 featured_image: "images/notebook-min-c.jpg"
 omit_header_text: true
-description: Nous voulons vous entendre
+description: Faisons connaissance
 type: page
 menu: main
 ---
