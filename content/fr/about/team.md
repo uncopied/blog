@@ -1,5 +1,5 @@
 ---
-date: 2021-03-17
+date: 2021-06-02
 title: L'équipe UNCOPIED
 omit_header_text: true
 description: UNCOPIED est une équipe internationale et pluri-disciplinaire. Qui sommes-nous ? 
@@ -17,11 +17,17 @@ Avec UNCOPIED, Elian réinvente le chirographe. Une technologie millénaire comb
 ### Violette VERSAEVEL
 Violette, étudiante en Droit et Histoire de l'Art, stagiaire, apporte son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
 
+### Nelly JACKSON
+Nelly, étudiante en Histoire de l'Art et Conservation, apporte son expertise pour adapter Uncopied aux besoins post-COVID19 des musées et institutions culturelles, dont le projet pilote avec le Musée National du Mali.
+
 ### Alexander TEPLOV
 Alexander est développeur senior Golang, en charge de concevoir les interfaces côté serveur et les micro-services.
 
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha sont développeuses ouaibe, en charge de l'interface utilisateur. 
+
+### Jesulonimi AKINGBESOTE
+Jesulonimi est un Google Associate Android Developer et primé de l'Algorand Development Award. Jesulonimi a contribué un prototye de contrat intelligent TEAL pour gérer un cas complexe de droit de suite dans le cadre d'une oeuvre collective vendue sous la forme d'un NFT (Apache 2 license).
 
 ### Amandine ROSSIGNOL
 Amandine est designer et a contribué à la conception du site ouaibe.
@@ -53,6 +59,5 @@ L'équipe projet pilote est basée à Paris et à Bamako.
 Artiviste, éditrice, activiste, experte en communication, Dia Yaye SACKO porte à la perfection ces multiples casquettes. 
 MaliCulture est une jeune et nouvelle initiative de Dia Djélimady SACKO, Femme de Lettres, de Culture, Chargée de communication et Ex-professeur de Lettres, consultante en édition. Entreprenante et passionnée de Médias et de Culture, la franco-malienne travaille pour faire de Mali Culture la référence médiatique en matière de vulgarisation des expressions culturelles au Mali. Avec son équipe, elle entend accompagner les entreprises culturelles dans la diffusion et la valorisation de la culture malienne. Dia est diplômée d’un Master2 de Lettres Recherche et de Science de l’Éducation de l’Université de Toulouse.
 
-### Nouvelle stagiaire à partir du 1er Juin
-Compétences: conservation, muséologie.
+
 

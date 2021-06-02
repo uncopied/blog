@@ -1,5 +1,5 @@
 ---
-date: 2021-05-15
+date: 2021-06-02
 title: UNCOPIED team
 omit_header_text: true
 description: UNCOPIED team is international and multidisciplinary
@@ -16,11 +16,17 @@ For UNCOPIED, Elian reinvented the chirograph and used QR Codes, blockchain tech
 ### Violette VERSAEVEL
 Violette, legal intern, brings out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
 
+### Nelly JACKSON
+Nelly, History of Art and Museum Conservation intern, will help bring the Uncopied solution to the post-COVID19 needs of Museums worldwide and more specifically work on our pilot project with the National Museum of Mali.
+
 ### Alexander TEPLOV
 Alexander is a senior Golang developper, in charge of re-architecting the UNCOPIED back-end as an open API and micro-services.
 
 ### Adyasha and Alisha MOHANTY
 Adyasha and Alisha are web developpers, in charge of the UNCOPIED user interface. 
+
+### Jesulonimi AKINGBESOTE
+Jesulonimi is a Google Associate Android Developer and a recipient of the Algorand Development Award. Jesulonimi contributed a prototype TEAL smart contract to manage complex royalty schemes (under Apache 2 license).
 
 ### Amandine ROSSIGNOL
 Amandine is a web designer and contributed the UNCOPIED web site wire frames.
@@ -54,6 +60,5 @@ The pilot project team is based both in Paris and Bamako.
 ### Dia SACKO, Mali Culture
 Dia is foundress of the premier web site on Mali Culture. She is a woman of culture, an entrepreneur, a feminist activist, a change maker, an optimist.  
 
-### New Intern from 1st June (TBC)
-TBC Skills in Museology and Cultural Heritage Conservation
+
 
