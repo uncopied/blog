@@ -54,7 +54,7 @@ Please find Jesulonimi's explanations below,
 
 {{< youtube id="674lob3OsmQ" autoplay="false" >}}
 
-Feel free to star, fork or join the repo is you would like to contribute. Please, report issues if you find any.
+Feel free to star, fork or join the repo if you would like to contribute. Please, report issues if you find any.
 
 Photo by Jeremy Bishop on Unsplash.
  
