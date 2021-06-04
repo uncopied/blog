@@ -56,3 +56,5 @@ On [UNCOPIED.ORG](https://uncopied.org), you can issue your own certificate and 
 If you like this project, please contribute to our [OpenCollective](https://opencollective.com/uncopied), all funding 
 will go to finance our IPFS infrastructure and some open source development. We gratefully thank all your OpenCollective Europe sponsors,
 * [NamSor SAS](https://www.namsor.com/)
+* [UNCOPIED SAS](http://uncopied.org/)
+* [Algorand Foundation](http://algorand.foundation/)

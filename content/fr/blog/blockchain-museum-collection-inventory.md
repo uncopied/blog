@@ -67,4 +67,4 @@ UNCOPIED a été présenté le 5 mars lors d'une e-conférence organisée par [M
 
 La présentation est en français avec des sous-titres (français - anglais). 
 
-Nous prévoyons un lancement en douceur de [UNCOPIED](https://uncopied.org/) pour Avril 2021.
+Nous prévoyons un lancement en douceur de [UNCOPIED](https://uncopied.org/) pour Avril 2021 (NB: date révisée à Juin 2021).

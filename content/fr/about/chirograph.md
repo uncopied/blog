@@ -58,3 +58,5 @@ Si vous aimer ce projet, contribuez à notre [Collectif](https://opencollective.
 spécifiquement dédié à l'hébergement de l'infrastructure IPFS et au développement open source. Nous remercions 
 chaleureusement nos sponsors OpenColltective Europe,
 * [NamSor SAS](https://www.namsor.com/)
+* [UNCOPIED SAS](http://uncopied.org/)
+* [Algorand Foundation](http://algorand.foundation/)

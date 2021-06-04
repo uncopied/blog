@@ -88,6 +88,6 @@ UNCOPIED was first presented on the 5th of March 2021 as part of [MaliCulture's 
 
 The presentation is in French with English sub-titles. 
 
-We plan to soft launch [UNCOPIED](https://uncopied.org/) in April 2021.
+We plan to soft launch [UNCOPIED](https://uncopied.org/) in April 2021 (NB: revised to June 2021).
 
  
