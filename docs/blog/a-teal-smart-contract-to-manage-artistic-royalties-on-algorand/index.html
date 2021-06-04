@@ -48,7 +48,7 @@
 <meta itemprop="description" content="Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
 <meta itemprop="datePublished" content="2021-06-04T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-06-04T00:00:00+00:00" />
-<meta itemprop="wordCount" content="549">
+<meta itemprop="wordCount" content="565">
 
 
 
@@ -205,21 +205,21 @@
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="a-quick-note-on-uncopiedart">A quick note on Uncopied.art</h2>
 <p>In February 2021, we started to demo a new kind of Certificate of Authenticity (CoA) to several artists, galleries and museums. 
 Our prototype combined a <a href="/about/chirograph/">chirograph</a> and an Algorand Standard Asset (ASA) to secure the origin and unicity of a physical or digital artwork.</p>
-<p>The prototype worked great. We got some positive feedback. We could feel strong expectation in the Algorand community, as we were hoping to launch in May 2021.</p>
-<p>However, we found that the prototype&rsquo;s monolitic architecture would limit our ability to integrate with partners in the spirit of a distributed ecosystem.</p>
+<p>The prototype worked great. We got some positive feedback. We could feel strong expectations in the Algorand community, as we were hoping to launch in May 2021.</p>
+<p>However, we found that the prototype&rsquo;s monolithic architecture would limit our ability to integrate with partners in the spirit of a distributed ecosystem.</p>
 <p>In the past few months, the <a href="/about/team/">team</a> has been working hard, refactoring Uncopied into a clean set of APIs and scalable Golang micro-services. The UI was also refactored from plain ReactJS to a NextJS framework. We&rsquo;re now hoping to soft-launch by the end of June 2021.</p>
 <h3 id="proof-of-provenance-and-conservation">Proof of Provenance and Conservation</h3>
 <p>Uncopied provides digitally immutable certificates for original artworks. Our goal is to participate in the emergence of a stronger artistic ecosystem based on trust, secure proof of provenance and tamper-proof long term <a href="/blog/blockchain-museum-collection-inventory/">physical and digital conservation</a>.</p>
 <p>To focus on our core services, we&rsquo;ve decided that the Uncopied ASA will be used exclusively to secure the certification. 
-It will non-tradable.</p>
+Uncopied ASAs will always be non-tradable.</p>
 <pre><code>Uncopied ASA != tradable Non-Fungible-Token (NFT)
 </code></pre>
-<p>We&rsquo;re interested to work with artists, galleries and museums who will issue their own NFTs. Uncopied will provide the Proof of Provenance (as well as some other cool services in terms of conservation or copyright protection).</p>
-<p>Algorand is a great platform to do that. We see some fantastic projects coming soon (fine art gallery, distributed exchange ie DEX, &hellip;) that will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs.</p>
+<p>We&rsquo;re interested in collaborating with artists, galleries and museums who will issue their own NFTs. Uncopied will provide the Proof of Provenance (as well as some other cool services in terms of conservation or copyright protection).</p>
+<p>Algorand is a great platform to do that. We see some fantastic projects coming soon (fine art gallery, fractionalized art, distributed exchange or DEX, &hellip;) They will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs. We&rsquo;re happy and proud to collaborate already with some of them.</p>
 <h2 id="getting-royalties-and-droit-de-suite-to-be-paid-on-algorand">Getting royalties and &lsquo;droit de suite&rsquo; to be paid on Algorand</h2>
-<p>So, although Uncopied doesn&rsquo;t intend to become a new NFT marketplace in the likes of Rarible or Opensea, we want to make sure our solution integrates well with the most complex distributed use cases.</p>
+<p>Although Uncopied doesn&rsquo;t intend to become a new NFT marketplace in the likes of Rarible or Opensea, we want to make sure our solution integrates well with the most complex distributed use cases.</p>
 <p>Droit de suite or Artist&rsquo;s Resale Right (ARR) is a right granted to artists to receive a fee on the resale of their works of art.</p>
-<p>We wanted to prototype a smart contract that would manage complex royalties and &lsquo;droit de suite&rsquo; for artists. We were interested to see if such contract could work in the context of a Distributed Exchange (DEX).</p>
+<p>We wanted to prototype a smart contract that would manage complex royalties and &lsquo;droit de suite&rsquo; for artists. We were interested to see if such a contract could work in the context of a Distributed Exchange (DEX).</p>
 <p>We&rsquo;ve reached out to <a href="https://github.com/Jesulonimi21">Jesulonimi Akingbesote</a> to help. Jesulonimi is a Google Associate Android Developer and a recipient of the Algorand Development Award.</p>
 <p>We started from Algorand provided examples and tutorials,</p>
 <ul>
