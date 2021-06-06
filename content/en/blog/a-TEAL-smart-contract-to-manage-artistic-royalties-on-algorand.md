@@ -46,7 +46,7 @@ We started from Algorand provided examples and tutorials,
 
 We've released two prototype smart contracts for the Algorand community,
 - Firstly, a rather simple case where the artist receives percentage on any secondary market sales (https://github.com/uncopied/smart_contract)
-- Secondly, in partnership with [Epoch Gallery](https://epoch.gallery/), a complex contract splitting the initial sale and the secondary market sales between eight artists according to a custom royalty breakdown (https://github.com/uncopied/epoch_smart_contract)
+- Secondly, in partnership with [EPOCH Gallery](https://epoch.gallery/), a complex contract splitting the initial sale and the secondary market sales between seven artists and the gallery according to a custom royalty breakdown (https://github.com/uncopied/epoch_smart_contract)
 
 Both smart contracts are released under an Apache 2.0 open source license. 
 
