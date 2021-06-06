@@ -8,6 +8,17 @@
     <language>fr-FR</language>
     <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uncopied.art/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Des contrats artistiques intelligents pour les NFTs sur Algorand</title>
+      <link>https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</guid>
+      <description>Qui est Uncopied.art En février 2021, nous avions démontré la faisabilité d&amp;rsquo;un nouveau type de certificats d&amp;rsquo;authenticité à plusieurs artites, galleries et musées.
+Notre prototype combinait un chirographe et un jeton non fongible Algorand (Algorand Standard Asset - ASA) pour sécuriser l&amp;rsquo;unicité et la preuve d&amp;rsquo;origine d&amp;rsquo;une oeuvre physique ou numérique.
+Techniquement, le résultat a été concluant, et les retours ont été positifs. Nous avons ressenti une forte attente de la communauté Algorand et artistique pour des NFTs plus écologiques, alors que nous avions prévu un lancement courant mai 2021.</description>
+    </item>
+    
+    <item>
       <title>La blockchain peut-elle aider à préserver les collections des Musées?</title>
       <link>https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
