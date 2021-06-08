@@ -6,7 +6,7 @@
     
     <title>Royalty smart contract in TEAL for Algorand NFTs | UNCOPIED, a blog for uncopiers</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
+    <meta name="description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
     <meta name="generator" content="Hugo 0.81.0-DEV" />
     
     
@@ -39,23 +39,23 @@
     
     
     <meta property="og:title" content="Royalty smart contract in TEAL for Algorand NFTs" />
-<meta property="og:description" content="Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs." />
+<meta property="og:description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/" />
 <meta property="article:published_time" content="2021-06-04T00:00:00+00:00" />
 <meta property="article:modified_time" content="2021-06-04T00:00:00+00:00" /><meta property="og:site_name" content="UNCOPIED, a blog for uncopiers" />
 <meta itemprop="name" content="Royalty smart contract in TEAL for Algorand NFTs">
-<meta itemprop="description" content="Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
+<meta itemprop="description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
 <meta itemprop="datePublished" content="2021-06-04T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-06-04T00:00:00+00:00" />
-<meta itemprop="wordCount" content="568">
+<meta itemprop="wordCount" content="578">
 
 
 
 <meta itemprop="keywords" content="Algorand,TEAL," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Royalty smart contract in TEAL for Algorand NFTs"/>
-<meta name="twitter:description" content="Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs."/>
+<meta name="twitter:description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs."/>
 <meta name="msvalidate.01" content="3E4352F9ADA0BE58AFE7543CECAD66F9" />
     
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-39KSEP0Q8X"></script>
@@ -154,7 +154,7 @@
           <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Royalty smart contract in TEAL for Algorand NFTs</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Uncopied.art has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.
+              Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.
             </h2>
           
         
@@ -211,43 +211,45 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="a-quick-note-on-uncopiedart">A quick note on Uncopied.art</h2>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="a-quick-note-on-uncopied">A Quick Note on Uncopied</h2>
 <p>In February 2021, we started to demo a new kind of Certificate of Authenticity (CoA) to several artists, galleries and museums. 
-Our prototype combined a <a href="/about/chirograph/">chirograph</a> and an Algorand Standard Asset (ASA) to secure the origin and unicity of a physical or digital artwork.</p>
-<p>The prototype worked great. We got some positive feedback. We could feel strong expectations in the Algorand community, as we were hoping to launch in May 2021.</p>
+Our prototype combined a <a href="/about/chirograph/">chirograph</a> and an Algorand Standard Asset (ASA) to secure the origin of a physical or digital artwork.</p>
+<p>The prototype worked great and we received some valuable feedback. We could feel the strong expectations from the Algorand community, as we were hoping to launch in May 2021.</p>
 <p>However, we found that the prototype&rsquo;s monolithic architecture would limit our ability to integrate with partners in the spirit of a distributed ecosystem.</p>
 <p>In the past few months, the <a href="/about/team/">team</a> has been working hard, refactoring Uncopied into a clean set of APIs and scalable Golang micro-services. The UI was also refactored from plain ReactJS to a NextJS framework. We&rsquo;re now hoping to soft-launch by the end of June 2021.</p>
 <h3 id="proof-of-provenance-and-conservation">Proof of Provenance and Conservation</h3>
-<p>Uncopied provides digitally immutable certificates for original artworks. Our goal is to participate in the emergence of a stronger artistic ecosystem based on trust, secure proof of provenance and tamper-proof long term <a href="/blog/blockchain-museum-collection-inventory/">physical and digital conservation</a>.</p>
+<p>Uncopied provides digitally immutable certificates for original artworks. Our goal is to participate in the emergence of a stronger artistic ecosystem based on trust, secure proof of provenance and long term, tamper-proof <a href="/blog/blockchain-museum-collection-inventory/">physical and digital conservation</a>.</p>
 <p>To focus on our core services, we&rsquo;ve decided that the Uncopied ASA will be used exclusively to secure the certification. 
 Uncopied ASAs will always be non-tradable.</p>
 <pre><code>Uncopied ASA != tradable Non-Fungible-Token (NFT)
 </code></pre>
-<p>We&rsquo;re interested in collaborating with artists, galleries and museums who will issue their own NFTs. Uncopied will provide the Proof of Provenance (as well as some other cool services in terms of conservation or copyright protection).</p>
-<p>Algorand is a great platform to do that. We see some fantastic projects coming soon (fine art gallery, fractionalized art, distributed exchange or DEX, &hellip;) They will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs. We&rsquo;re happy and proud to collaborate already with some of them.</p>
+<p>We&rsquo;re interested in collaborating with artists, galleries and museums who will issue their own NFTs. Uncopied will provide the Proof of Provenance (as well as some other cool conservation or copyright protection services).</p>
+<p>Algorand is a great platform to do that. Fantastic projects are underway (a fine art gallery, fractionalised art, distributed exchange or DEX, etc.).
+They will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs. 
+We&rsquo;re happy and proud to already be collaborating  with some of them. There are other cool projects underway on other carbon-friendly blockchains (<a href="https://www.hicetnunc.xyz/">hicetnunc</a> on Tezos, <a href="https://www.sign-art.app/">SIGN art</a> on Waves, etc.).</p>
 <h2 id="getting-royalties-and-droit-de-suite-to-be-paid-on-algorand">Getting royalties and &lsquo;droit de suite&rsquo; to be paid on Algorand</h2>
-<p>Although Uncopied doesn&rsquo;t intend to become a new NFT marketplace in the likes of Rarible or Opensea, we want to make sure our solution integrates well with the most complex distributed use cases.</p>
-<p>Droit de suite or Artist&rsquo;s Resale Right (ARR) is a right granted to artists to receive a fee on the resale of their works of art.</p>
+<p>Although Uncopied doesn&rsquo;t intend to become a new NFT marketplace in like Rarible or Opensea, we want to make sure our solution integrates well with the most complex distributed use cases.</p>
+<p>&lsquo;Droit de suite&rsquo; or Artist&rsquo;s Resale Right (ARR) is a right granted to artists to receive a fee on the resale of their works of art.</p>
 <p>We wanted to prototype a smart contract that would manage complex royalties and &lsquo;droit de suite&rsquo; for artists. We were interested to see if such a contract could work in the context of a Distributed Exchange (DEX).</p>
 <p>We&rsquo;ve reached out to <a href="https://github.com/Jesulonimi21">Jesulonimi Akingbesote</a> to help. Jesulonimi is a Google Associate Android Developer and a recipient of the Algorand Development Award.</p>
-<p>We started from Algorand provided examples and tutorials,</p>
+<p>We started from Algorand provided examples and tutorials:</p>
 <ul>
 <li>Assets and Custom Transfer Logic by Jason Weathersby, Algorand (<a href="https://developer.algorand.org/solutions/assets-and-custom-transfer-logic/">https://developer.algorand.org/solutions/assets-and-custom-transfer-logic/</a>)</li>
-<li>AlgoRealm, a NFT Royalty Game by Cosimo Bassi, Algorand (<a href="https://developer.algorand.org/solutions/algorealm-nft-royalty-game/">https://developer.algorand.org/solutions/algorealm-nft-royalty-game/</a>)</li>
+<li>AlgoRealm, an NFT Royalty Game by Cosimo Bassi, Algorand (<a href="https://developer.algorand.org/solutions/algorealm-nft-royalty-game/">https://developer.algorand.org/solutions/algorealm-nft-royalty-game/</a>)</li>
 </ul>
-<p>We&rsquo;ve released two prototype smart contracts for the Algorand community,</p>
+<p>We&rsquo;ve released two prototype smart contracts for the Algorand community:</p>
 <ul>
 <li>Firstly, a rather simple case where the artist receives percentage on any secondary market sales (<a href="https://github.com/uncopied/smart_contract">https://github.com/uncopied/smart_contract</a>)</li>
 <li>Secondly, in partnership with <a href="https://epoch.gallery/">EPOCH Gallery</a>, a complex contract splitting the initial sale and the secondary market sales between seven artists and the gallery according to a custom royalty breakdown (<a href="https://github.com/uncopied/epoch_smart_contract">https://github.com/uncopied/epoch_smart_contract</a>)</li>
 </ul>
-<p>Both smart contracts are released under an Apache 2.0 open source license.</p>
-<p>Please find Jesulonimi&rsquo;s explanations below,</p>
+<p>Both smart contracts are released under an Apache 2.0 open-source licence.</p>
+<p>Please find Jesulonimi&rsquo;s explanations below:</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/674lob3OsmQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<p>Feel free to star, fork or join the repo if you would like to contribute. Please, report issues if you find any.</p>
+<p>Feel free to join the Github repository if you would like to contribute. Please report any issues if you find them.</p>
 <p>Photo by Jeremy Bishop on Unsplash.</p>
 <ul class="pa0">
   
