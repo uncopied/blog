@@ -1,223 +1,191 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://uncopied.art/fr/tags/algorand/</loc>
+    <loc>https://blog.uncopied.art/fr/tags/algorand/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/tags/algorand/"
+                href="https://blog.uncopied.art/tags/algorand/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/tags/algorand/"
+                href="https://blog.uncopied.art/fr/tags/algorand/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/"
+                href="https://blog.uncopied.art/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/"
+                href="https://blog.uncopied.art/fr/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
+                href="https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
+                href="https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/tags/"
+                href="https://blog.uncopied.art/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/tags/"
+                href="https://blog.uncopied.art/fr/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/teal/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/teal/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/tags/teal/"
+                href="https://blog.uncopied.art/tags/teal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/tags/teal/"
+                href="https://blog.uncopied.art/fr/tags/teal/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/about/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/about/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/about/"
+                href="https://blog.uncopied.art/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/about/"
+                href="https://blog.uncopied.art/fr/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/about/team/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/about/team/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/about/team/"
+                href="https://blog.uncopied.art/about/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/about/team/"
+                href="https://blog.uncopied.art/fr/about/team/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/about/chirograph/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/about/chirograph/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/about/chirograph/"
+                href="https://blog.uncopied.art/about/chirograph/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/about/chirograph/"
+                href="https://blog.uncopied.art/fr/about/chirograph/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/conservation/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/conservation/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/tags/conservation/"
+                href="https://blog.uncopied.art/tags/conservation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/tags/conservation/"
+                href="https://blog.uncopied.art/fr/tags/conservation/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/blog/blockchain-museum-collection-inventory/"
+                href="https://blog.uncopied.art/blog/blockchain-museum-collection-inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/"
+                href="https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/blog/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/blog/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/blog/"
+                href="https://blog.uncopied.art/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/blog/"
+                href="https://blog.uncopied.art/fr/blog/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/tags/securit%C3%A9/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/securit%C3%A9/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/blog/chapter-1/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/blog/chapter-1/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/blog/chapter-1/"
+                href="https://blog.uncopied.art/blog/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/blog/chapter-1/"
+                href="https://blog.uncopied.art/fr/blog/chapter-1/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/categories/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/categories/"
+                href="https://blog.uncopied.art/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/categories/"
+                href="https://blog.uncopied.art/fr/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uncopied.art/fr/contact/</loc>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uncopied.art/contact/"
+                href="https://blog.uncopied.art/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://uncopied.art/fr/contact/"
+                href="https://blog.uncopied.art/fr/contact/"
                 />
   </url>
-  
 </urlset>

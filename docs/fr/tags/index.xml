@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on UNCOPIED, le blogue des décopieurs</title>
-    <link>https://uncopied.art/fr/tags/</link>
+    <link>https://blog.uncopied.art/fr/tags/</link>
     <description>Recent content in Tags on UNCOPIED, le blogue des décopieurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uncopied.art/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorand</title>
-      <link>https://uncopied.art/fr/tags/algorand/</link>
+      <link>https://blog.uncopied.art/fr/tags/algorand/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/tags/algorand/</guid>
+      <guid>https://blog.uncopied.art/fr/tags/algorand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TEAL</title>
-      <link>https://uncopied.art/fr/tags/teal/</link>
+      <link>https://blog.uncopied.art/fr/tags/teal/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/tags/teal/</guid>
+      <guid>https://blog.uncopied.art/fr/tags/teal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conservation</title>
-      <link>https://uncopied.art/fr/tags/conservation/</link>
+      <link>https://blog.uncopied.art/fr/tags/conservation/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/tags/conservation/</guid>
+      <guid>https://blog.uncopied.art/fr/tags/conservation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sécurité</title>
-      <link>https://uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</link>
+      <link>https://blog.uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</guid>
+      <guid>https://blog.uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>securité</title>
-      <link>https://uncopied.art/fr/tags/securit%C3%A9/</link>
+      <link>https://blog.uncopied.art/fr/tags/securit%C3%A9/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/tags/securit%C3%A9/</guid>
+      <guid>https://blog.uncopied.art/fr/tags/securit%C3%A9/</guid>
       <description></description>
     </item>
     

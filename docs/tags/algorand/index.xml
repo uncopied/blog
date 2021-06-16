@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorand on UNCOPIED, a blog for uncopiers</title>
-    <link>https://uncopied.art/tags/algorand/</link>
+    <link>https://blog.uncopied.art/tags/algorand/</link>
     <description>Recent content in Algorand on UNCOPIED, a blog for uncopiers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uncopied.art/tags/algorand/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/tags/algorand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Royalty smart contract in TEAL for Algorand NFTs</title>
-      <link>https://uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
+      <link>https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</guid>
+      <guid>https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</guid>
       <description>A Quick Note on Uncopied In February 2021, we started to demo a new kind of Certificate of Authenticity (CoA) to several artists, galleries and museums. Our prototype combined a chirograph and an Algorand Standard Asset (ASA) to secure the origin of a physical or digital artwork.
 The prototype worked great and we received some valuable feedback. We could feel the strong expectations from the Algorand community, as we were hoping to launch in May 2021.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De l&#39;original à l&#39;oeuvre unique on UNCOPIED, le blogue des décopieurs</title>
-    <link>https://uncopied.art/fr/</link>
+    <link>https://blog.uncopied.art/fr/</link>
     <description>Recent content in De l&#39;original à l&#39;oeuvre unique on UNCOPIED, le blogue des décopieurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uncopied.art/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Des contrats artistiques intelligents pour les NFTs sur Algorand</title>
-      <link>https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
+      <link>https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</guid>
+      <guid>https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</guid>
       <description>Qui est Uncopied.art En février 2021, nous avions démontré la faisabilité d&amp;rsquo;un nouveau type de certificats d&amp;rsquo;authenticité à plusieurs artites, galleries et musées.
 Notre prototype combinait un chirographe et un jeton non fongible Algorand (Algorand Standard Asset - ASA) pour sécuriser l&amp;rsquo;unicité et la preuve d&amp;rsquo;origine d&amp;rsquo;une oeuvre physique ou numérique.
 Techniquement, le résultat a été concluant, et les retours ont été positifs. Nous avons ressenti une forte attente de la communauté Algorand et artistique pour des NFTs plus écologiques, alors que nous avions prévu un lancement courant mai 2021.</description>
@@ -20,19 +20,19 @@ Techniquement, le résultat a été concluant, et les retours ont été positifs
     
     <item>
       <title>L&#39;équipe UNCOPIED</title>
-      <link>https://uncopied.art/fr/about/team/</link>
+      <link>https://blog.uncopied.art/fr/about/team/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/about/team/</guid>
+      <guid>https://blog.uncopied.art/fr/about/team/</guid>
       <description>Un équipe et un collectif ouvert (Open Collective Europe) Elian CARSENAT Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel NamSor qui permet de classer les noms personnels selon le genre ou l&amp;rsquo;origine socio-culturelle. Appliqué à l&amp;rsquo;intelligence artificielle, NamSor permet d&amp;rsquo;évaluer le risque de biais algorithmiques (sur le genre ou l&amp;rsquo;origine ethnique). Elian est l&amp;rsquo;inventeur du &amp;lsquo;mille-feuille onomastique&amp;rsquo; et co-fondateur de GenderGapGrader, qui promeut la diversité de genre à travers l&amp;rsquo;ouverture de données.</description>
     </item>
     
     <item>
       <title>Les certificats UNCOPIED sont faciles à fabriquer, difficiles à falsifier.</title>
-      <link>https://uncopied.art/fr/about/chirograph/</link>
+      <link>https://blog.uncopied.art/fr/about/chirograph/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/about/chirograph/</guid>
+      <guid>https://blog.uncopied.art/fr/about/chirograph/</guid>
       <description>Un chirographe pour la securité physique du certificat d&amp;rsquo;authenticité Quelques oeuvres physiques ou digitales produites aujourd&amp;rsquo;hui entreront dans la Grande Histoire du Monde. Qui peut prédire lesquelles? Le temps fera son tri.
 Un certificat d&amp;rsquo;authenticité est une promesse faite par un esprit créateur.
 &amp;ldquo;Je suis MOI, j&amp;rsquo;ai fait ceci pour VOUS et je clame : CECI est unique&amp;rdquo;
@@ -41,19 +41,19 @@ Ces &amp;lsquo;MOI&amp;rsquo;, &amp;lsquo;CECI&amp;rsquo; et &amp;lsquo;VOUS&amp
     
     <item>
       <title>La blockchain peut-elle aider à préserver les collections des Musées?</title>
-      <link>https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/</link>
+      <link>https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/blog/blockchain-museum-collection-inventory/</guid>
+      <guid>https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/</guid>
       <description>Se préparer aux conséquences de l&amp;rsquo;épidémie: notre héritage culturel est en danger Une enquête menée en 2011 par ICCROM/UNESCO a révélé que jusqu&amp;rsquo;à 60 % des collections de Musées dans le monde ne sont pas en sûreté. Les surcharges de stockage, les mauvaises conditions de conservation et les contraintes budgétaires contribuent aux facteurs de risque. 95% des collections de Musées sont gardées en réserve, des millions d&amp;rsquo;objets demeurent ainsi invisibles au public et un musée sur quatre a un système de documentation incomplet.</description>
     </item>
     
     <item>
       <title>UNCOPIED I: LA GRAND’SALLE</title>
-      <link>https://uncopied.art/fr/blog/chapter-1/</link>
+      <link>https://blog.uncopied.art/fr/blog/chapter-1/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/blog/chapter-1/</guid>
+      <guid>https://blog.uncopied.art/fr/blog/chapter-1/</guid>
       <description>Les certificats UNCOPIED, ou l&amp;rsquo;idée que nous nous en faisons aujourd&amp;rsquo;hui, survivront-ils à l&amp;rsquo;incendie du Temps?
 Citons Hugo,
  Il y a aujourd’hui trois cent quarante-huit ans six mois et dix-neuf jours que les parisiens s’éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l’Université et de la Ville.
@@ -62,12 +62,12 @@ Citons Hugo,
     
     <item>
       <title>Discutons</title>
-      <link>https://uncopied.art/fr/contact/</link>
+      <link>https://blog.uncopied.art/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uncopied.art/fr/contact/</guid>
+      <guid>https://blog.uncopied.art/fr/contact/</guid>
       <description>Faisons connaissance le temps d&amp;rsquo;une brève conversation Zoom par Calendly,
-</description>
+  </description>
     </item>
     
   </channel>
