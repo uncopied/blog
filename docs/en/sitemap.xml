@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.uncopied.art/tags/algorand/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,8 +15,21 @@
                 href="https://blog.uncopied.art/tags/algorand/"
                 />
   </url><url>
+    <loc>https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/"
+                />
+  </url><url>
     <loc>https://blog.uncopied.art/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -26,6 +39,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.uncopied.art/"
+                />
+  </url><url>
+    <loc>https://blog.uncopied.art/tags/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/tags/"
+                />
+  </url><url>
+    <loc>https://blog.uncopied.art/tags/teal/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/tags/teal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/tags/teal/"
                 />
   </url><url>
     <loc>https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</loc>
@@ -39,32 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
-                />
-  </url><url>
-    <loc>https://blog.uncopied.art/tags/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/tags/"
-                />
-  </url><url>
-    <loc>https://blog.uncopied.art/tags/teal/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/tags/teal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/tags/teal/"
                 />
   </url><url>
     <loc>https://blog.uncopied.art/about/</loc>

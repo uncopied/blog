@@ -6,7 +6,17 @@
     <description>Recent content in Making original truly unique. on UNCOPIED, a blog for uncopiers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First entire virtual Art exhibition sold as a NFT</title>
+      <link>https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</guid>
+      <description>On 2nd July, a collector acquired EPOCH, &amp;ldquo;FREEPORT&amp;rdquo;, 2021; 1/5 for $8,200 USD. This was the first of five limited edition NFT by EPOCH gallery, tokenizing the “FREEPORT” exhibition. In many respects, if was a first :
+ the first entire virtual Art exhibition digitized as a NFT, the first NFT for a collective artwork managed with an Algorand smart contract, the first NFT secured by Uncopied and commercially sold, with its own physical document (certificate of authenticity and collector agreement).</description>
+    </item>
+    
     <item>
       <title>Royalty smart contract in TEAL for Algorand NFTs</title>
       <link>https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</link>
