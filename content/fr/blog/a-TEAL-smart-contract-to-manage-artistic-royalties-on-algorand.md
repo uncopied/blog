@@ -8,7 +8,7 @@ title: "Des contrats artistiques intelligents pour les NFTs sur Algorand"
 
 ## Qui est Uncopied.art
 
-En février 2021, nous avions démontré la faisabilité d'un nouveau type de certificats d'authenticité à plusieurs artites, galleries et musées. 
+En février 2021, nous avions démontré la faisabilité d'un nouveau type de certificats d'authenticité à plusieurs artistes, galleries et musées. 
 
 Notre prototype combinait un [chirographe](/fr/about/chirograph/) et un jeton non fongible Algorand (Algorand Standard Asset - ASA) pour sécuriser l'unicité et la preuve d'origine d'une oeuvre physique ou numérique. 
 
