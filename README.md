@@ -6,6 +6,7 @@ https://uncopied.art/
 All contributions from uncopiers is welcome under CC-BY-4.0
 
 Thank you to UNCOPIED sponsors,
+* [UNCOPIED SAS](https://uncopied.art)
 * [NamSor SAS](https://www.namsor.com)
 
 You can contribute to our OpenCollective Europe here,
