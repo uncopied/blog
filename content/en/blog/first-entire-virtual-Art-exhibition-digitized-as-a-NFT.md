@@ -6,7 +6,7 @@ tags: ["Algorand","TEAL"]
 title: "First entire virtual Art exhibition sold as a NFT"
 ---
 
-On 2nd July, [a collector](https://twitter.com/DG__tw/status/1410970894135181315) acquired [EPOCH, "FREEPORT", 2021; 1/5](https://algoexplorer.io/asset/245558017) for $8,200 USD. This was the first of five limited edition NFT by EPOCH gallery, tokenizing the “FREEPORT” exhibition. In many respects, if was a first :
+On 2nd July, [a collector](https://twitter.com/DG__tw/status/1410970894135181315) acquired [EPOCH, "FREEPORT", 2021; 1/5](https://algoexplorer.io/asset/245558017) for $8,200 USD. This was the first of five limited edition NFT by EPOCH gallery, tokenizing the “FREEPORT” exhibition. In many respects, it was a first :
 - the first entire virtual Art exhibition digitized as a NFT,
 - the first NFT for a collective artwork managed with an [Algorand smart contract](/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/),
 - the first NFT secured by Uncopied and commercially sold, with its own physical document (certificate of authenticity and collector agreement).
