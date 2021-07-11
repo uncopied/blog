@@ -7,7 +7,7 @@
     <title>Royalty smart contract in TEAL for Algorand NFTs | UNCOPIED, a blog for uncopiers</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
-    <meta name="generator" content="Hugo 0.84.0-DEV" />
+    <meta name="generator" content="Hugo 0.81.0-DEV" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -41,15 +41,19 @@
     <meta property="og:title" content="Royalty smart contract in TEAL for Algorand NFTs" />
 <meta property="og:description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2021-06-04T00:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2021-06-04T00:00:00&#43;00:00" /><meta property="og:site_name" content="UNCOPIED, a blog for uncopiers" />
-
+<meta property="og:url" content="https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/" />
+<meta property="article:published_time" content="2021-06-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-06-04T00:00:00+00:00" /><meta property="og:site_name" content="UNCOPIED, a blog for uncopiers" />
 <meta itemprop="name" content="Royalty smart contract in TEAL for Algorand NFTs">
-<meta itemprop="description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs."><meta itemprop="datePublished" content="2021-06-04T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2021-06-04T00:00:00&#43;00:00" />
+<meta itemprop="description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs.">
+<meta itemprop="datePublished" content="2021-06-04T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-06-04T00:00:00+00:00" />
 <meta itemprop="wordCount" content="578">
-<meta itemprop="keywords" content="Algorand,TEAL," /><meta name="twitter:card" content="summary"/>
+
+
+
+<meta itemprop="keywords" content="Algorand,TEAL," />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Royalty smart contract in TEAL for Algorand NFTs"/>
 <meta name="twitter:description" content="Uncopied has released two examples of a TEAL smart contract to manage artistic royalties and &#39;droit de suite&#39; on Algorand NFTs."/>
 <meta name="msvalidate.01" content="3E4352F9ADA0BE58AFE7543CECAD66F9" />
@@ -208,20 +212,20 @@
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="a-quick-note-on-uncopied">A Quick Note on Uncopied</h2>
-<p>In February 2021, we started to demo a new kind of Certificate of Authenticity (CoA) to several artists, galleries and museums.
+<p>In February 2021, we started to demo a new kind of Certificate of Authenticity (CoA) to several artists, galleries and museums. 
 Our prototype combined a <a href="/about/chirograph/">chirograph</a> and an Algorand Standard Asset (ASA) to secure the origin of a physical or digital artwork.</p>
 <p>The prototype worked great and we received some valuable feedback. We could feel the strong expectations from the Algorand community, as we were hoping to launch in May 2021.</p>
 <p>However, we found that the prototype&rsquo;s monolithic architecture would limit our ability to integrate with partners in the spirit of a distributed ecosystem.</p>
 <p>In the past few months, the <a href="/about/team/">team</a> has been working hard, refactoring Uncopied into a clean set of APIs and scalable Golang micro-services. The UI was also refactored from plain ReactJS to a NextJS framework. We&rsquo;re now hoping to soft-launch by the end of June 2021.</p>
 <h3 id="proof-of-provenance-and-conservation">Proof of Provenance and Conservation</h3>
 <p>Uncopied provides digitally immutable certificates for original artworks. Our goal is to participate in the emergence of a stronger artistic ecosystem based on trust, secure proof of provenance and long term, tamper-proof <a href="/blog/blockchain-museum-collection-inventory/">physical and digital conservation</a>.</p>
-<p>To focus on our core services, we&rsquo;ve decided that the Uncopied ASA will be used exclusively to secure the certification.
+<p>To focus on our core services, we&rsquo;ve decided that the Uncopied ASA will be used exclusively to secure the certification. 
 Uncopied ASAs will always be non-tradable.</p>
 <pre><code>Uncopied ASA != tradable Non-Fungible-Token (NFT)
 </code></pre>
 <p>We&rsquo;re interested in collaborating with artists, galleries and museums who will issue their own NFTs. Uncopied will provide the Proof of Provenance (as well as some other cool conservation or copyright protection services).</p>
 <p>Algorand is a great platform to do that. Fantastic projects are underway (a fine art gallery, fractionalised art, distributed exchange or DEX, etc.).
-They will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs.
+They will provide more ecological alternatives to the huge energy consumption we see on Ethereum to &lsquo;mint&rsquo; NFTs. 
 We&rsquo;re happy and proud to already be collaborating  with some of them. There are other cool projects underway on other carbon-friendly blockchains (<a href="https://www.hicetnunc.xyz/">hicetnunc</a> on Tezos, <a href="https://www.sign-art.app/">SIGN art</a> on Waves, etc.).</p>
 <h2 id="getting-royalties-and-droit-de-suite-to-be-paid-on-algorand">Getting royalties and &lsquo;droit de suite&rsquo; to be paid on Algorand</h2>
 <p>Although Uncopied doesn&rsquo;t intend to become a new NFT marketplace in like Rarible or Opensea, we want to make sure our solution integrates well with the most complex distributed use cases.</p>
