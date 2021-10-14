@@ -8,4 +8,4 @@ menu: main
 ---
 Faisons connaissance le temps d'une brève conversation Zoom par Calendly,
 
-{{< calendly >}}
+{{< calendly_fr >}}

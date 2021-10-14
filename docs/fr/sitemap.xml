@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.uncopied.art/fr/about/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/about/"
+                />
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/"
+                />
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/about/terms/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/about/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/about/terms/"
+                />
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/algorand/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,24 +53,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/tags/algorand/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.uncopied.art/fr/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +66,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +79,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/teal/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,9 +92,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/tags/teal/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,24 +105,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.uncopied.art/fr/about/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/about/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/about/team/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,9 +118,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/about/team/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/about/chirograph/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -135,9 +131,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/about/chirograph/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/conservation/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -150,9 +144,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/tags/conservation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -165,14 +157,10 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/blockchain-museum-collection-inventory/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/s%C3%A9curit%C3%A9/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/blog/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -185,14 +173,10 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/tags/securit%C3%A9/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/blog/chapter-1/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -205,9 +189,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/chapter-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -219,9 +201,7 @@
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.uncopied.art/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -234,5 +214,4 @@
                 href="https://blog.uncopied.art/fr/contact/"
                 />
   </url>
-  
 </urlset>

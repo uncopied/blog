@@ -5,7 +5,7 @@ omit_header_text: true
 description: UNCOPIED est une équipe internationale et pluri-disciplinaire. Qui sommes-nous ? 
 ---
 
-## Un équipe et un collectif ouvert (Open Collective Europe)
+## Une équipe Uncopied SAS et un collectif ouvert (Open Collective Europe)
 
 ### Elian CARSENAT
 Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel NamSor qui permet de classer les noms personnels selon le genre ou l'origine socio-culturelle. Appliqué à l'intelligence artificielle, NamSor permet d'évaluer le risque de biais algorithmiques (sur le genre ou l'origine ethnique).
@@ -13,12 +13,6 @@ Elian est l'inventeur du 'mille-feuille onomastique' et co-fondateur de GenderGa
 Avec UNCOPIED, Elian réinvente le chirographe. Une technologie millénaire combinée au QR Code et à la 'blockchain' qui permet de garantir l'unicité physique et numérique d'un objet.
 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
-
-### Violette VERSAEVEL
-Violette, étudiante en Droit et Histoire de l'Art, stagiaire, apporte son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
-
-### Nelly JACKSON
-Nelly, étudiante en Histoire de l'Art et Conservation, apporte son expertise pour adapter Uncopied aux besoins post-COVID19 des musées et institutions culturelles, dont le projet pilote avec le Musée National du Mali.
 
 ### Alexander TEPLOV
 Alexander est développeur senior Golang, en charge de concevoir les interfaces côté serveur et les micro-services.
@@ -31,6 +25,18 @@ Jesulonimi est un Google Associate Android Developer et primé de l'Algorand Dev
 
 ### Amandine ROSSIGNOL
 Amandine est designer et a contribué à la conception du site ouaibe.
+
+## UNCOPIED Alumni
+
+### Violette VERSAEVEL (mai à septembre 2021)
+Violette, étudiante en Droit et Histoire de l'Art, stagiaire, apporte son regard neuf, sa double compétence art et propriété intellectuelle, sa première expérience professionnelle dans une gallerie parisienne.
+
+### Nelly JACKSON (juin à septembre 2021)
+Nelly, étudiante en Histoire de l'Art et Conservation, apporte son expertise pour adapter Uncopied aux besoins post-COVID19 des musées et institutions culturelles, dont le projet pilote avec le Musée National du Mali.
+
+### Dia SACKO, Mali Culture (juin 2021)
+Artiviste, éditrice, activiste, experte en communication, Dia Yaye SACKO porte à la perfection ces multiples casquettes.
+MaliCulture est une jeune et nouvelle initiative de Dia Djélimady SACKO, Femme de Lettres, de Culture, Chargée de communication et Ex-professeur de Lettres, consultante en édition. Entreprenante et passionnée de Médias et de Culture, la franco-malienne travaille pour faire de Mali Culture la référence médiatique en matière de vulgarisation des expressions culturelles au Mali. Avec son équipe, elle entend accompagner les entreprises culturelles dans la diffusion et la valorisation de la culture malienne. Dia est diplômée d’un Master2 de Lettres Recherche et de Science de l’Éducation de l’Université de Toulouse.
 
 ## Comité Scientifique
 Comme produit dérivé de la sécurisation des oeuvres d'art dans une 'blockchain', UNCOPIED va produire de nouvelles informations accessible en format de données ouvertes. 
@@ -54,10 +60,6 @@ Notre premier projet pilote est avec le Musée National du Mali, visant à crée
 
 L'équipe projet pilote est basée à Paris et à Bamako. 
 
-
-### Dia SACKO, Mali Culture
-Artiviste, éditrice, activiste, experte en communication, Dia Yaye SACKO porte à la perfection ces multiples casquettes. 
-MaliCulture est une jeune et nouvelle initiative de Dia Djélimady SACKO, Femme de Lettres, de Culture, Chargée de communication et Ex-professeur de Lettres, consultante en édition. Entreprenante et passionnée de Médias et de Culture, la franco-malienne travaille pour faire de Mali Culture la référence médiatique en matière de vulgarisation des expressions culturelles au Mali. Avec son équipe, elle entend accompagner les entreprises culturelles dans la diffusion et la valorisation de la culture malienne. Dia est diplômée d’un Master2 de Lettres Recherche et de Science de l’Éducation de l’Université de Toulouse.
 
 
 

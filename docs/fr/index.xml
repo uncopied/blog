@@ -6,7 +6,17 @@
     <description>Recent content in De l&#39;original à l&#39;oeuvre unique on UNCOPIED, le blogue des décopieurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.uncopied.art/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNCOPIED Mentions Légales</title>
+      <link>https://blog.uncopied.art/fr/about/terms/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.uncopied.art/fr/about/terms/</guid>
+      <description>UNCOPIED Mentions Légales Uncopied SAS est une société française domiciliée à Versailles SIREN 899661060, TVA FR96899661060.
+   Information légale Valeur     Date création entreprise: 01-06-2021   Forme juridique: Société par actions simplifiée   Noms commerciaux: UNCOPIED   Siège social: UNCOPIED, 65 RUE DE LA PAROISSE 78000 VERSAILLES   Adresse postale: UNCOPIED, 65 RUE DE LA PAROISSE 78000 VERSAILLES   Numéros d&amp;rsquo;identification: Numéro SIREN 899661060   Numéro SIRET (siège): 89966106000017   Numéro TVA Intracommunautaire: FR96899661060   Numéro RCS: Versailles B 899 661 060   Activité (Code NAF ou APE): Programmation informatique (6201Z)   Directeur de la publication: Elian CARSENAT   Président: Elian CARSENAT    Conditions Générales Voici les conditions générales UNCOPIED, Terms &amp;amp; Conditions</description>
+    </item>
+    
     <item>
       <title>Première expo d&#39;Art numérique entièrement vendue sous la forme d&#39;un jeton NFT</title>
       <link>https://blog.uncopied.art/fr/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</link>
@@ -34,7 +44,7 @@ Techniquement, le résultat a été concluant, et les retours ont été positifs
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.uncopied.art/fr/about/team/</guid>
-      <description>Un équipe et un collectif ouvert (Open Collective Europe) Elian CARSENAT Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel NamSor qui permet de classer les noms personnels selon le genre ou l&amp;rsquo;origine socio-culturelle. Appliqué à l&amp;rsquo;intelligence artificielle, NamSor permet d&amp;rsquo;évaluer le risque de biais algorithmiques (sur le genre ou l&amp;rsquo;origine ethnique). Elian est l&amp;rsquo;inventeur du &amp;lsquo;mille-feuille onomastique&amp;rsquo; et co-fondateur de GenderGapGrader, qui promeut la diversité de genre à travers l&amp;rsquo;ouverture de données.</description>
+      <description>Une équipe Uncopied SAS et un collectif ouvert (Open Collective Europe) Elian CARSENAT Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel NamSor qui permet de classer les noms personnels selon le genre ou l&amp;rsquo;origine socio-culturelle. Appliqué à l&amp;rsquo;intelligence artificielle, NamSor permet d&amp;rsquo;évaluer le risque de biais algorithmiques (sur le genre ou l&amp;rsquo;origine ethnique). Elian est l&amp;rsquo;inventeur du &amp;lsquo;mille-feuille onomastique&amp;rsquo; et co-fondateur de GenderGapGrader, qui promeut la diversité de genre à travers l&amp;rsquo;ouverture de données.</description>
     </item>
     
     <item>
@@ -77,7 +87,7 @@ Citons Hugo,
       
       <guid>https://blog.uncopied.art/fr/contact/</guid>
       <description>Faisons connaissance le temps d&amp;rsquo;une brève conversation Zoom par Calendly,
-</description>
+  </description>
     </item>
     
   </channel>

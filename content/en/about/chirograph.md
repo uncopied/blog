@@ -7,7 +7,7 @@ description: UNCOPIED certificates of authenticity are physically and digitally 
 
 ## Certificates of authenticity are physically secured using a chirograph
 
-Some physical and digital artwork produced today will make a difference in the World. 
+Some physical and digital artwork produced today will make a difference in the world. 
 Can anyone tell for sure whose creations will be distinguished in future times?
 Time will tell.
 
@@ -15,7 +15,7 @@ A certificate of authenticity is a promise made by a creator.
 
 "It is ME, I did THIS, for YOU, and I claim : THIS is unique, it will change US." 
 
-The ME, the YOU and the THIS should be explicite and last to make history. 
+The ME, the YOU and the THIS should be explicit and last to make history. 
 
 I did SOMETHING, but is was LOST or STOLEN is a creator's nightmare. As much as a collector would
 cry over a lost collection of rare items burnt irreversibly. As much as we cry when a Museum is destroyed or looted, 

@@ -5,19 +5,13 @@ omit_header_text: true
 description: UNCOPIED team is international and multidisciplinary
 ---
 
-## Core Team and Open Collective
+## Core Uncopied Team and Open Collective
 
 ### Elian CARSENAT
-Elian Carsenat is founder and visionary entrepreneur. He is passionate about the World’s cultures and languages and has founded NamSor in 2012, a piece of software to classify personal names by gender, country of origin or ethnicity. The big data tool can infer valuable data about 7 billion people, processing over one million names daily. With it, Elian and his team has helped countries reconnect with diaspora, attract FDIs, talents and jobs.
+Elian Carsenat is a founder and visionary entrepreneur. He is passionate about world cultures and languages and founded NamSor in 2012, a software application to classify personal names by gender, country of origin or ethnicity. The big data tool can infer valuable data about 7 billion people, processing over one million names daily. Using NamSor, Elian and his team has helped countries reconnect with diaspora, attract FDIs, talents and jobs.
 He co-founded GenderGapGrader, promoting gender diversity through data and APIs. Elian invented the onomastic mille-feuille, a colorful representation of bio-cultural diversity among social groups.
 For UNCOPIED, Elian reinvented the chirograph and used QR Codes, blockchain technology to make it practical again. 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
-
-### Violette VERSAEVEL
-Violette, legal intern, brings out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
-
-### Nelly JACKSON
-Nelly, History of Art and Museum Conservation intern, will help bring the Uncopied solution to the post-COVID19 needs of Museums worldwide and more specifically work on our pilot project with the National Museum of Mali.
 
 ### Alexander TEPLOV
 Alexander is a senior Golang developper, in charge of re-architecting the UNCOPIED back-end as an open API and micro-services.
@@ -30,6 +24,17 @@ Jesulonimi is a Google Associate Android Developer and a recipient of the Algora
 
 ### Amandine ROSSIGNOL
 Amandine is a web designer and contributed the UNCOPIED web site wire frames.
+
+## UNCOPIED Alumni
+
+### Violette VERSAEVEL (May-Sept 2021)
+Violette, legal intern, brings out of the box thinking, double education in Art History and Intellectual Property, a first experience in a Paris gallery.
+
+### Nelly JACKSON (June-Sept 2021)
+Nelly, History of Art and Museum Conservation intern, will help bring the Uncopied solution to the post-COVID19 needs of Museums worldwide and more specifically work on our pilot project with the National Museum of Mali.
+
+### Dia SACKO, Mali Culture (June 2021)
+Dia is foundress of the premier web site on Mali Culture. She is a woman of culture, an entrepreneur, a feminist activist, a change maker, an optimist.
 
 ## Scientific Committee
 As a byproduct of securing art works on a transparent blockchain, UNCOPIED will produce new information accessible to scientists as open data. Also, UNCOPIED aims to provide new methods to secure museum digital collections and disseminate metadata about museum objects. The role of the scientific committee is to help make these dataset accessible to other researchers, while respecting stakeholders interests, privacy and ethnical concerns. 
@@ -57,8 +62,6 @@ Our first pilot project with the National Museum of Mali aims to create new soli
 
 The pilot project team is based both in Paris and Bamako. 
 
-### Dia SACKO, Mali Culture
-Dia is foundress of the premier web site on Mali Culture. She is a woman of culture, an entrepreneur, a feminist activist, a change maker, an optimist.  
 
 
 
