@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.uncopied.art/fr/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/"
+                />
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/mus%C3%A9ologie/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/blog/first-physical-cultural-artefact-certified-by-uncopied/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.uncopied.art/fr/tags/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/tags/"
+                />
+  </url><url>
     <loc>https://blog.uncopied.art/fr/about/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +45,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/about/"
-                />
-  </url><url>
-    <loc>https://blog.uncopied.art/fr/</loc>
-    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/"
                 />
   </url><url>
     <loc>https://blog.uncopied.art/fr/about/terms/</loc>
@@ -65,19 +84,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://blog.uncopied.art/fr/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/"
-                />
-  </url><url>
-    <loc>https://blog.uncopied.art/fr/tags/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/tags/"
                 />
   </url><url>
     <loc>https://blog.uncopied.art/fr/tags/teal/</loc>
