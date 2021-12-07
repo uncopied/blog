@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.uncopied.art/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.uncopied.art/tags/museum/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.uncopied.art/blog/lacma-unframed-nfts-and-museum-part-5-art-collections-blockchain/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/blog/lacma-unframed-nfts-and-museum-part-5-art-collections-blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/blog/lacma-unframed-nfts-and-museum-part-5-art-collections-blockchain/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.uncopied.art/tags/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.uncopied.art/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.uncopied.art/tags/"
+                />
+  </url>
+  
   <url>
     <loc>https://blog.uncopied.art/tags/african-art/</loc>
     <lastmod>2021-10-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/first-physical-cultural-artefact-certified-by-uncopied/</loc>
     <lastmod>2021-10-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -17,36 +70,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/first-physical-cultural-artefact-certified-by-uncopied/"
                 />
-  </url><url>
-    <loc>https://blog.uncopied.art/</loc>
-    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/"
-                />
-  </url><url>
-    <loc>https://blog.uncopied.art/tags/museum/</loc>
-    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.uncopied.art/tags/</loc>
-    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blog.uncopied.art/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.uncopied.art/tags/"
-                />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/about/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -59,7 +85,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/about/terms/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -72,7 +100,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/about/terms/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/tags/algorand/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -85,7 +115,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/tags/algorand/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -98,7 +130,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/first-entire-virtual-art-exhibition-digitized-as-a-nft/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/tags/teal/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -111,7 +145,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/tags/teal/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -124,7 +160,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/a-teal-smart-contract-to-manage-artistic-royalties-on-algorand/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/about/team/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -137,7 +175,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/about/team/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/about/chirograph/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -150,7 +190,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/about/chirograph/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/blockchain-museum-collection-inventory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -163,7 +205,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/blockchain-museum-collection-inventory/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/tags/conservation/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -176,10 +220,14 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/tags/conservation/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/tags/security/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -192,7 +240,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/blog/chapter-1/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -205,7 +255,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/blog/chapter-1/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -217,7 +269,9 @@
                 hreflang="en"
                 href="https://blog.uncopied.art/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://blog.uncopied.art/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -230,4 +284,5 @@
                 href="https://blog.uncopied.art/contact/"
                 />
   </url>
+  
 </urlset>
