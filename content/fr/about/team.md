@@ -8,9 +8,9 @@ description: UNCOPIED est une équipe internationale et pluri-disciplinaire. Qui
 ## Une équipe Uncopied SAS et un collectif ouvert (Open Collective Europe)
 
 ### Elian CARSENAT
-Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel NamSor qui permet de classer les noms personnels selon le genre ou l'origine socio-culturelle. Appliqué à l'intelligence artificielle, NamSor permet d'évaluer le risque de biais algorithmiques (sur le genre ou l'origine ethnique).
+Ingénieur ENSIIE/INRIA, Elian a commencé sa carrière à la banque JP Morgan en 1997, puis travaillé comme consultant. En 2012, il conçoit le logiciel [NamSor](https://namsor.app/) qui permet de classer les noms personnels selon le genre ou l'origine socio-culturelle. Appliqué à l'intelligence artificielle, NamSor permet d'évaluer le risque de biais algorithmiques (sur le genre ou l'origine ethnique).
 Elian est l'inventeur du 'mille-feuille onomastique' et co-fondateur de GenderGapGrader, qui promeut la diversité de genre à travers l'ouverture de données. 
-Avec UNCOPIED, Elian réinvente le chirographe. Une technologie millénaire combinée au QR Code et à la 'blockchain' qui permet de garantir l'unicité physique et numérique d'un objet.
+Avec [UNCOPIED](https://uncopied.art/), Elian réinvente le chirographe. Une technologie millénaire combinée au QR Code et à la 'blockchain' qui permet de garantir l'unicité physique et numérique d'un objet.
 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
 
@@ -54,7 +54,7 @@ Ses recherches sont co-financées par la Swiss National Science Foundation. Dari
 François est un scientifique (ex-INRIA), un entrepreneur, un pionnier de l'open data et du big data, un sportif et un cinéphile. 
 
 ### Craig STEVENS, Northwestern University
-Craig est un archéologue anthropologue doctorant à Northwestern University (Chicago, USA). Ses sujets de recherche concernent principalement l’héritage matériel et la formation d’identités dans la culture Afro-Américaine. Ses travaux visent à diffuser des données archéologiques et anthropologiques, ainsi que leurs champs d’interprétations à travers des créations artistiques dans des plateformes virtuelles. La recherche doctorale de Craig concerne les processus d’installation au XIXe siècle de migrants Afro-Américains et Caribéens du mouvement ‘Back-to-Africa’, qui se sont installés au Libéria en Afrique de l’Ouest.
+Craig est un archéologue anthropologue doctorant à Northwestern University (Chicago, USA). Ses sujets de recherche concernent principalement l’héritage matériel et la formation d’identités dans Diaspora africaine. Ses travaux visent à diffuser des données archéologiques et anthropologiques, ainsi que leurs champs d’interprétations à travers des créations artistiques dans des plateformes virtuelles. La recherche doctorale de Craig concerne les processus d’installation au XIXe siècle de migrants de la Diaspora africaine et caribéene du mouvement ‘Back-to-Africa’, qui se sont installés au Libéria en Afrique de l’Ouest.
 
 ## Project Pilote (été 2021) : le Musée National du Mali
 
