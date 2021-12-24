@@ -55,7 +55,10 @@ Network visualizations are instruments for distant reading, a visual approach to
 ### François BANCILHON, INRIA Alumni
 François is a serial entrepreneur, an ex-academic researcher (databases), fan of big data, data science, open data, running and movies.
 
-## Pilot Project : National Museum of Mali
+### Craig STEVENS, Northwestern University
+Craig is an anthropological archaeologist currently pursuing a PhD at Northwestern University in Chicago, USA. His primary research interests encompass heritage, materiality and identity formations in the Black Atlantic world. His work seeks to disseminate archaeological/anthropological data and interpretations through creative production and virtual platforms. Craig’s doctoral research investigates the placemaking processes of 19th-century Back-to-Africa migrants from the United States and Caribbean who settled in Liberia, West Africa.
+
+## Pilot Project (Summer 2021) : National Museum of Mali
 
 Our first pilot project with the National Museum of Mali aims to create new solidarity between the North and the Global South, between contempory artists and the necessary conservation of a national cultural heritage. 
 {{< youtube id="7DOKOlUWDCY" autoplay="false" >}}

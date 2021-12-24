@@ -53,7 +53,10 @@ Ses recherches sont co-financées par la Swiss National Science Foundation. Dari
 ### François BANCILHON, INRIA Alumni
 François est un scientifique (ex-INRIA), un entrepreneur, un pionnier de l'open data et du big data, un sportif et un cinéphile. 
 
-## Project Pilote : le Musée National du Mali
+### Craig STEVENS, Northwestern University
+Craig est un archéologue anthropologue doctorant à Northwestern University (Chicago, USA). Ses sujets de recherche concernent principalement l’héritage matériel et la formation d’identités dans la culture Afro-Américaine. Ses travaux visent à diffuser des données archéologiques et anthropologiques, ainsi que leurs champs d’interprétations à travers des créations artistiques dans des plateformes virtuelles. La recherche doctorale de Craig concerne les processus d’installation au XIXe siècle de migrants Afro-Américains et Caribéens du mouvement ‘Back-to-Africa’, qui se sont installés au Libéria en Afrique de l’Ouest.
+
+## Project Pilote (été 2021) : le Musée National du Mali
 
 Notre premier projet pilote est avec le Musée National du Mali, visant à créer de nouvelles solidarités entre le Nord et le Sud, entre des artistes contemporains et la nécessaire conservation d'un héritage culturel. 
 {{< youtube id="7DOKOlUWDCY" autoplay="false" >}}
