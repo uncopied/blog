@@ -8,9 +8,9 @@ description: UNCOPIED team is international and multidisciplinary
 ## Core Uncopied Team and Open Collective
 
 ### Elian CARSENAT
-Elian Carsenat is a founder and visionary entrepreneur. He is passionate about world cultures and languages and founded NamSor in 2012, a software application to classify personal names by gender, country of origin or ethnicity. The big data tool can infer valuable data about 7 billion people, processing over one million names daily. Using NamSor, Elian and his team has helped countries reconnect with diaspora, attract FDIs, talents and jobs.
+Elian Carsenat is a founder and visionary entrepreneur. He is passionate about world cultures and languages and founded [NamSor](https://namsor.app/) in 2012, a software application to classify personal names by gender, country of origin or ethnicity. The big data tool can infer valuable data about 7 billion people, processing over one million names daily. Using NamSor, Elian and his team has helped countries reconnect with diaspora, attract FDIs, talents and jobs.
 He co-founded GenderGapGrader, promoting gender diversity through data and APIs. Elian invented the onomastic mille-feuille, a colorful representation of bio-cultural diversity among social groups.
-For UNCOPIED, Elian reinvented the chirograph and used QR Codes, blockchain technology to make it practical again. 
+For [UNCOPIED](https://uncopied.art), Elian reinvented the chirograph and used QR Codes, blockchain technology to make it practical again. 
 [LinkedIn](https://www.linkedin.com/in/eliancarsenat/) 
 
 ### Alexander TEPLOV
