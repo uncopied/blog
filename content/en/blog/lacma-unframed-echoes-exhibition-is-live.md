@@ -2,7 +2,7 @@
 date: 2022-02-18
 description: "ECHOES, a Virtual Exhibition from the LACMA Art + Tech Lab, EPOCH Gallery, and UNCOPIED is live !"
 featured_image: "/images/EPOCH_ECHOES.png"
-tags: ["Museum"]
+tags: ["Museum","NFT"]
 title: "ECHOES, a Virtual Exhibition from the LACMA Art + Tech Lab, EPOCH Gallery, and UNCOPIED is live !"
 ---
 

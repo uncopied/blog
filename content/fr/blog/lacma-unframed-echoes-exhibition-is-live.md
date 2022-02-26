@@ -1,0 +1,51 @@
+---
+date: 2022-02-26
+description: "Présentation d'ECHOES, une exposition virtuelle du LACMA Art + Tech Lab, de la galerie EPOCH et d'UNCOPIED."
+featured_image: "/images/EPOCH_ECHOES.png"
+tags: ["Muséologie","NFT"]
+title: "Présentation d'ECHOES, une exposition virtuelle du LACMA Art + Tech Lab, de la galerie EPOCH et d'UNCOPIED."
+---
+
+ECHOES, une exposition virtuelle du LACMA Art + Tech Lab, de la galerie EPOCH et d'UNCOPIED a été [ouverte sous la forme d'un NFT](https://epoch.gallery/echoes-nft/).
+
+["ECHOES," 1/5](https://www.nftexplorer.app/asset/603960750) a déjà été acquis par un collectionneur. Le [certificat UNCOPIED](https://api.uncopied.art/c/v/w) apporte des informations complémentaires sur la provenance avec des méta-données plus riches que celle généralement associées aux NFTs. 
+Le certificat documente également des aspects concernant la propriété intellectuelle et les droits du collectionneur. 
+
+>Cet article est repris de Los Angeles County Museum of Art (LACMA) UNFRAMED. Vous pouvez lire [l'article original](https://unframed.lacma.org/2022/02/04/introducing-echoes-virtual-exhibition-lacma-art-tech-lab-epoch-gallery-and-uncopied).
+
+{{< figure src="/images/EPOCH_ECHOES.png" title="ECHOES – avec American Artist | Lukas Avendaño, EYIBRA (Abraham Brody), NNUX (Ana Lopez), and Oswaldo Erreve | Jacqueline Kiyomi Gork and Rhett LaRue | Lawrence Lek | Jen Liu | Ronald Rael and Virginia San Fratello | Sarah Rara" >}}
+
+Le 4 février 2022
+
+## LACMA UNFRAMED: Présentation d'ECHOES, une exposition virtuelle du LACMA Art + Tech Lab, de la galerie EPOCH et d'UNCOPIED.
+par Joel Ferree, Directeur de programme, Art & Technology Lab Art + Technologie
+
+Pour la sixième partie de NFTs and the Museum, le [Art + Technology Lab](https://www.lacma.org/lab) présente [ECHOES](https://epoch.gallery/echoes). Poursuivant sa pratique consistant à encourager l'expérimentation et l'innovation des artistes au LACMA, le Labo s'est associé à EPOCH, UNCOPIED et une sélection d'artistes de son programme pour créer une exposition virtuelle qui sera frappée comme une édition de jetons non fongibles sur la blockchain Algorand. ECHOES fait partie d'un ensemble plus large d'efforts que le Labo poursuit pour explorer les cas d'utilisation de la technologie blockchain au musée. Une initiative connexe impliquant la certification d'un petit nombre d'objets de la collection permanente du LACMA sur la blockchain d'Algorand suivra. Remarque : ces images sont des créations artistiques inspirées par les galeries David Geffen actuellement en construction, et ne représentent ni ne reflètent le site de construction réel ou les rendus du projet de construction.
+
+Il semble que cela fait des lustres que les NFT ont fait leur apparition dans le coin de l'univers du monde de l'art. Au cours de l'année écoulée, des progrès rapides ont été réalisés à un rythme étourdissant. De nombreux artistes, dont les bénéficiaires de la bourse Art + Technology Lab, ont commencé à intégrer les NFT dans leur pratique. Au LACMA, de nombreuses conversations sur l'application des NFT et de la technologie blockchain au travail des musées ont également eu lieu, et nous présentons le résultat de ces expériences et de ces conversations dans cette série de blogs. Avec le soutien de la Fondation Algorand, le laboratoire met maintenant ce discours en pratique, en entreprenant un projet pilote qui fournit une expérience pratique avec les NFT et la blockchain PPoS (pure proof-of-stake) d'Algorand à faible teneur en carbone.
+
+" Nous sommes très heureux de collaborer avec le LACMA, le plus grand musée d'art de l'ouest des États-Unis ", a déclaré Addie Wagenknecht, responsable des écosystèmes mondiaux et des opérations techniques de la [Fondation Algorand](https://algorand.foundation/). "Les artistes et le public de l'art adoptent maintenant les NFT à un tel rythme que cela exige que les musées commencent à s'engager dans cette technologie émergente. Le LACMA a une longue tradition de soutien à l'art et à la technologie, qui remonte au premier programme Art and Technology de la fin des années 1960, qui associait des artistes à des entreprises technologiques du sud de la Californie. Nous voyons notre collaboration comme une occasion de montrer comment la technologie blockchain peut stimuler l'innovation dans l'art et la culture. Soutenir le LACMA représente une opportunité pour eux d'engager et d'atteindre un nouveau public de natifs du numérique, de donner un coup de fouet à la collecte de fonds numérique, et d'établir un modèle open-source pour l'expérimentation des musées sur Algorand."
+
+### À propos de l'exposition virtuelle ECHOES et de la NFT
+ECHOES est une collaboration expérimentale entre [EPOCH](https://epoch.gallery/) et le laboratoire d'art et de technologie du LACMA, avec des bénéficiaires actuels et passés de subventions du laboratoire d'art et de technologie, organisée par l'artiste et créateur d'EPOCH, Peter Wu+. Le paysage virtuel de l'exposition, une création artistique numérique, s'inspire du site de construction du campus est du LACMA, où sera inauguré le futur bâtiment de la collection permanente, ainsi que des lieux voisins du Wilshire Boulevard à Los Angeles. Veuillez noter que ces images sont des créations artistiques inspirées par les galeries David Geffen actuellement en construction et ne représentent ni ne reflètent le site de construction réel ou les rendus du projet de construction.
+Les artistes participants sont les suivants American Artist ; Lukas Avendaño, EYIBRA (Abraham Brody), NNUX (Ana Lopez), et Oswaldo Erreve ; Jacqueline Kiyomi Gork et Rhett LaRue ; Lawerence Lek ; Jen Liu ; Ronald Rael et Virginia San Fratello ; et Sarah Rara.
+
+Présentée précédemment dans cette série, l'approche unique d'EPOCH en matière de conservation et de contrats intelligents, ainsi que son modèle de partage équitable des bénéfices, montrent comment les entreprises gérées par des artistes peuvent tirer parti des technologies émergentes pour créer de nouveaux paradigmes en matière d'engagement numérique au sein des musées. L'ensemble de l'exposition virtuelle, y compris les œuvres d'art des participants, sera publié sous la forme d'un seul NFT, les bénéfices et les redevances étant répartis entre les parties participantes.
+
+Le lancement du NFT ECHOES est prévu pour le 15 février sur le site web d'EPOCH. Il sera édité en cinq exemplaires, dont une épreuve d'artiste sera remise à chaque artiste participant et à EPOCH. Le produit des ventes sera réparti entre les artistes participants et EPOCH, et une partie servira à financer les futures bourses d'artistes du Art + Technology Lab. [UNCOPIED](https://uncopied.art), un système d'authentification numérique des œuvres d'art (également présenté précédemment dans cette série), fournit des certificats d'authenticité sécurisés, soutenus par un accord contractuel et des métadonnées substantielles.
+
+Au musée, ECHOES a servi de tremplin pour d'autres cas d'utilisation de la technologie blockchain qui démontreraient les avantages de sa sécurité, de sa transparence et de son évolutivité. Des détails sur la façon dont le LACMA travaille avec UNCOPIED et Algorand pour enregistrer les objets de la collection sur la blockchain sont à venir.
+
+### À propos du laboratoire d'art et de technologie
+Alors que les musées réagissent de manière mesurée, les artistes sont souvent les premiers à essayer les nouveaux outils numériques. Poussés par leur passion et leur autonomie, ils sont capables d'expérimenter et d'itérer rapidement sur des concepts technologiques. Le laboratoire Art + Technologie du LACMA soutient les projets d'artistes qui utilisent les technologies émergentes. Soutenu par le talent et l'expertise d'un conseil consultatif composé d'innovateurs de premier plan issus du monde de l'entreprise et de l'université, il constitue un pont entre l'artiste et l'institution où les idées sont échangées et l'expérimentation prospère. Il tolère les risques et offre au musée une plateforme de recherche et de développement où les résultats des expériences des artistes peuvent être affinés et portés à l'échelle institutionnelle. Avec l'aide des artistes, il sert de terrain d'essai pour les nouvelles technologies dans le musée.
+
+### À propos d'EPOCH
+Fondé en 2020, EPOCH est une expérience virtuelle gérée par des artistes qui fonctionne comme une plateforme inclusive de construction de communauté invitant les artistes établis et émergents travaillant dans des médiums numériques et analogiques à participer. Principalement axée sur les artistes, EPOCH s'est imposée comme une destination virtuelle qui remet en question le statu quo grâce à son approche critique et novatrice de la conservation et de l'organisation d'expositions.
+
+### À propos d'UNCOPIED
+
+[UNCOPIED](https://uncopied.art/) a été fondé par l'entrepreneur visionnaire Elian Carsenat. Système d'authentification des œuvres d'art, UNCOPIED réinvente le chirographe (une technologie utilisée au XXe siècle pour sécuriser les contrats commerciaux en Europe du Nord) et utilise les codes QR et la technologie blockchain pour le rendre à nouveau pratique. UNCOPIED combine la sécurité chirographique et l'IA (recherche inversée d'images) pour sécuriser les œuvres d'art physiques et numériques et les NFT. Elian a précédemment lancé [NamSor](https://namsor.app/), une entreprise d'IA rentable fournissant la sociolinguistique en tant que service, en 2012. Il a également inventé le mille-feuille onomastique, une représentation colorée de la diversité bio-culturelle parmi les groupes sociaux. Une de ces œuvres, Chinese sea, réalisée en collaboration avec Dario Rodighiero (Études comparatives des médias/écriture du MIT / metaLAB (at) Harvard), Eveline Wandl-Vogt (Institut de recherche Ars Electronica Jardin de ... Connaissance pour l'humanité / Académie autrichienne des sciences), représente une cartographie de la recherche COVID-19. Elle a été présentée au Centre Ars Electronica de Linz (2020 et 2021).
+
+ECHOES est généreusement financé par la Fondation Algorand.
+
+EN->FR translation by [emilymdavis](https://www.fiverr.com/emilymdavis)
