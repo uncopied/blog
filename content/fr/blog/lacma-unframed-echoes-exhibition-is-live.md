@@ -48,4 +48,4 @@ Fondé en 2020, EPOCH est une expérience virtuelle gérée par des artistes qui
 
 ECHOES est généreusement financé par la Fondation Algorand.
 
-EN->FR translation by [emilymdavis](https://www.fiverr.com/emilymdavis)
+Traduction EN->FR par [emilymdavis](https://www.fiverr.com/emilymdavis)

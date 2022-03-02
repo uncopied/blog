@@ -20,3 +20,8 @@ Read background articles on Los Angeles County Museum of Art (LACMA) UNFRAMED :
 * [NFTs and the Museum Part 5: Art Collections on the Blockchain](https://unframed.lacma.org/2021/12/03/nfts-and-museum-part-5-art-collections-blockchain)
 * [NFTs and the Museum Part 3: Artists and NFTs—Cayetano Ferrer in Conversation with Peter Wu+](https://unframed.lacma.org/2021/09/13/nfts-and-museum-part-3-artists-and-nfts-cayetano-ferrer-conversation-peter-wu)
 
+Further read
+* [EPOCH GALLERY by Outland](https://outland.art/epoch-gallery/)
+* [LEONARDO on ECHOES](https://leonardo.info/opportunity/introducing-echoes-a-virtual-exhibition-from-the-lacma-art-tech-lab-epoch-gallery-and)
+
+EN->[FR translation](https://blog.uncopied.art/fr/blog/lacma-unframed-echoes-exhibition-is-live/) by [emilymdavis](https://www.fiverr.com/emilymdavis)
